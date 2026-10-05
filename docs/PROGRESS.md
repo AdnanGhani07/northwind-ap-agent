@@ -18,7 +18,7 @@
 - **Safety Policy Configuration**: Hard-coded safety policy boundaries are exposed as env defaults (`MAX_AUTO_APPROVE_DOLLARS`, `ALLOW_AUTO_APPROVE_DUPLICATES=false`) outside the LLM.
 
 ### Open Issues / External Dependencies Needed
-- Live credentials/accounts for:
-  - Postgres hosted database (Neon / Supabase) or confirm running via local Docker Compose.
-  - Google Cloud Project & Google Gemini API Key for extraction and Google ADK exception agent.
-  - Cloud Storage Bucket (if deploying to GCP) or use local mock storage.
+- [x] Postgres database configured (Supabase instance added to `.env`).
+- [x] Local storage directory (`data/storage`) configured for offline zero-cost document storage.
+- [ ] Google Gemini API Key: replace placeholder in `.env` when ready for Phase 2/3 LLM tasks.
+
