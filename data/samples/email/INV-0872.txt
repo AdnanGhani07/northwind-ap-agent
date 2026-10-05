@@ -1,0 +1,24 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10871 from Northwind Hardware Industries 249 (PO-10871)
+Date: 2026-08-17 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10871
+Invoice Number: INV-2026-10871
+Invoice Date: 2026-08-17
+Currency: USD
+Purchase Order: PO-10871
+
+--- Line Items ---
+1. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 500 | Unit: 38.00 | Total: 19000.00
+2. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 20 | Unit: 0.45 | Total: 9.00
+3. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 500 | Unit: 4.50 | Total: 2250.00
+
+Subtotal: USD 21259.00
+Tax: USD 1275.54
+Total Due: USD 22534.54
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Industries 249 Billing Department

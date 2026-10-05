@@ -1,0 +1,23 @@
+From: billing@northwindpac.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10879 from Northwind Packaging Distributors 203 (PO-10879)
+Date: 2026-08-16 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10879
+Invoice Number: INV-2026-10879
+Invoice Date: 2026-08-16
+Currency: USD
+Purchase Order: PO-10879
+
+--- Line Items ---
+1. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 200 | Unit: 46.00 | Total: 9200.00
+2. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 500 | Unit: 0.18 | Total: 90.00
+
+Subtotal: USD 9290.00
+Tax: USD 557.40
+Total Due: USD 9847.40
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Packaging Distributors 203 Billing Department

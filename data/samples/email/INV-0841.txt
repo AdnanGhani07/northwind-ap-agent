@@ -1,0 +1,24 @@
+From: billing@northwindbea.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10840 from Northwind Bearings LLC 45 (PO-10840)
+Date: 2026-09-02 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10840
+Invoice Number: INV-2026-10840
+Invoice Date: 2026-09-02
+Currency: USD
+Purchase Order: PO-10840
+
+--- Line Items ---
+1. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 50 | Unit: 38.00 | Total: 1900.00
+2. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 500 | Unit: 8.75 | Total: 4375.00
+3. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 20 | Unit: 2.10 | Total: 42.00
+
+Subtotal: USD 6317.00
+Tax: USD 379.02
+Total Due: USD 6696.02
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Bearings LLC 45 Billing Department

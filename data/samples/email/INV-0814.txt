@@ -1,0 +1,24 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10813 from Northwind Hardware Manufacturing 245 (PO-10813)
+Date: 2026-07-21 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10813
+Invoice Number: INV-2026-10813
+Invoice Date: 2026-07-21
+Currency: USD
+Purchase Order: PO-10813
+
+--- Line Items ---
+1. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 200 | Unit: 0.18 | Total: 36.00
+2. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 50 | Unit: 32.00 | Total: 1600.00
+3. SKU: WSH-M8-FLT | Flat Washer M8 Stainless Steel | Qty: 100 | Unit: 0.12 | Total: 12.00
+
+Subtotal: USD 1648.00
+Tax: USD 98.88
+Total Due: USD 1746.88
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Manufacturing 245 Billing Department

@@ -1,0 +1,23 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10873 from Northwind Hardware Corp 56 (PO-10873)
+Date: 2026-07-15 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10873
+Invoice Number: INV-2026-10873
+Invoice Date: 2026-07-15
+Currency: USD
+Purchase Order: PO-10873
+
+--- Line Items ---
+1. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 200 | Unit: 8.75 | Total: 1750.00
+2. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 20 | Unit: 46.00 | Total: 920.00
+
+Subtotal: USD 2670.00
+Tax: USD 160.20
+Total Due: USD 2830.20
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Corp 56 Billing Department

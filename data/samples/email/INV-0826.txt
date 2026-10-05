@@ -1,0 +1,22 @@
+From: billing@nwmetalsllc2.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10825 from NW Metals LLC 27 (PO-10825)
+Date: 2026-09-18 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10825
+Invoice Number: INV-2026-10825
+Invoice Date: 2026-09-18
+Currency: USD
+Purchase Order: PO-10825
+
+--- Line Items ---
+1. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 500 | Unit: 38.00 | Total: 19000.00
+
+Subtotal: USD 19000.00
+Tax: USD 1140.00
+Total Due: USD 20140.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: NW Metals LLC 27 Billing Department

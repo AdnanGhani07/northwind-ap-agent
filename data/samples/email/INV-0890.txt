@@ -1,0 +1,22 @@
+From: billing@northwindfas.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10889 from Northwind Fasteners Distributors 67 (PO-10889)
+Date: 2026-08-14 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10889
+Invoice Number: INV-2026-10889
+Invoice Date: 2026-08-14
+Currency: USD
+Purchase Order: PO-10889
+
+--- Line Items ---
+1. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 500 | Unit: 3.20 | Total: 1600.00
+
+Subtotal: USD 1600.00
+Tax: USD 96.00
+Total Due: USD 1696.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Fasteners Distributors 67 Billing Department

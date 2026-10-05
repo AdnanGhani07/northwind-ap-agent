@@ -1,0 +1,24 @@
+From: billing@globalpneuma.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10513 from Global Pneumatics Supply (PO-10513)
+Date: 2026-08-04 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10513
+Invoice Number: INV-2026-10513
+Invoice Date: 2026-08-04
+Currency: USD
+Purchase Order: PO-10513
+
+--- Line Items ---
+1. SKU: SAF-RES-N95 | Particulate Respirator N95 (20pk) | Qty: 200 | Unit: 28.00 | Total: 5600.00
+2. SKU: MRO-WIP-100 | Lint-Free Industrial Shop Wipes (100pk) | Qty: 200 | Unit: 18.00 | Total: 3600.00
+3. SKU: HYD-SEA-045 | Nitrile O-Ring Kit 450-Piece | Qty: 500 | Unit: 22.50 | Total: 11250.00
+
+Subtotal: USD 20450.00
+Tax: USD 1227.00
+Total Due: USD 21677.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Global Pneumatics Supply Billing Department

@@ -1,0 +1,22 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10801 from Northwind Hardware Manufacturing 175 (PO-10801)
+Date: 2026-09-13 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10801
+Invoice Number: INV-2026-10801
+Invoice Date: 2026-09-13
+Currency: USD
+Purchase Order: PO-10801
+
+--- Line Items ---
+1. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 200 | Unit: 4.50 | Total: 900.00
+
+Subtotal: USD 900.00
+Tax: USD 54.00
+Total Due: USD 954.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Manufacturing 175 Billing Department

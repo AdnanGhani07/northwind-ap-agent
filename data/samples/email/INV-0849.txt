@@ -1,0 +1,24 @@
+From: billing@northwindval.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10848 from Northwind Valves Inc. 103 (PO-10848)
+Date: 2026-07-17 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10848
+Invoice Number: INV-2026-10848
+Invoice Date: 2026-07-17
+Currency: USD
+Purchase Order: PO-10848
+
+--- Line Items ---
+1. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 100 | Unit: 2.10 | Total: 210.00
+2. SKU: SAF-RES-N95 | Particulate Respirator N95 (20pk) | Qty: 20 | Unit: 28.00 | Total: 560.00
+3. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 200 | Unit: 32.00 | Total: 6400.00
+
+Subtotal: USD 7170.00
+Tax: USD 430.20
+Total Due: USD 7600.20
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Valves Inc. 103 Billing Department

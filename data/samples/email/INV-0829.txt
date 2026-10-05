@@ -1,0 +1,23 @@
+From: billing@frontiercutt.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10828 from Frontier Cutting Tools (PO-10828)
+Date: 2026-07-26 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10828
+Invoice Number: INV-2026-10828
+Invoice Date: 2026-07-26
+Currency: USD
+Purchase Order: PO-10828
+
+--- Line Items ---
+1. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 200 | Unit: 0.45 | Total: 90.00
+2. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 500 | Unit: 5.50 | Total: 2750.00
+
+Subtotal: USD 2840.00
+Tax: USD 170.40
+Total Due: USD 3010.40
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Frontier Cutting Tools Billing Department

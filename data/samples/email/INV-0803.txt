@@ -1,0 +1,25 @@
+From: billing@northwindmet.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10802 from Northwind Metals Corp 199 (PO-10802)
+Date: 2026-08-22 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10802
+Invoice Number: INV-2026-10802
+Invoice Date: 2026-08-22
+Currency: USD
+Purchase Order: PO-10802
+
+--- Line Items ---
+1. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 50 | Unit: 8.75 | Total: 437.50
+2. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 500 | Unit: 32.00 | Total: 16000.00
+3. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 500 | Unit: 4.50 | Total: 2250.00
+4. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 500 | Unit: 0.45 | Total: 225.00
+
+Subtotal: USD 18912.50
+Tax: USD 1134.75
+Total Due: USD 20047.25
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Metals Corp 199 Billing Department

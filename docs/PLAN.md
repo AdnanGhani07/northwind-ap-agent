@@ -63,15 +63,15 @@ Evals + audit log run across every stage.
 ## Phase 1 (Week 1): Scenario, Discovery, Data
 
 **Tasks**
-- [ ] Write customer profile: 250 vendors, ~1,800 invoices/month, 6 AP clerks, legacy ERP, 5-day month-end close that overruns
-- [ ] Write discovery doc (template in Appendix A)
-- [ ] Data generators (seeded, reproducible):
-  - [ ] Vendor master with duplicates/variants ("ACME Corp", "Acme Corporation Ltd.")
-  - [ ] POs and goods receipts as messy CSVs (mixed date formats, whitespace, a latin-1 file, renamed columns)
-  - [ ] 800 invoice PDFs across 5 to 6 templates, some scan-style noise; 100 as email bodies
-  - [ ] Inject labeled problems: exact duplicates (3%), near-duplicates (2%), price variance (4%), qty mismatch/partial delivery (4%), missing PO (2%), wrong vendor name (3%), currency issues (1%)
-- [ ] Ground truth JSON per invoice: correct fields, correct match outcome, correct resolution category
-- [ ] Split: 150 invoices locked as **test set** (never tune on it); rest is dev
+- [x] Write customer profile: 250 vendors, ~1,800 invoices/month, 6 AP clerks, legacy ERP, 5-day month-end close that overruns
+- [x] Write discovery doc (template in Appendix A)
+- [x] Data generators (seeded, reproducible):
+  - [x] Vendor master with duplicates/variants ("ACME Corp", "Acme Corporation Ltd.")
+  - [x] POs and goods receipts as messy CSVs (mixed date formats, whitespace, a latin-1 file, renamed columns)
+  - [x] 800 invoice PDFs across 5 to 6 templates, some scan-style noise; 100 as email bodies
+  - [x] Inject labeled problems: exact duplicates (3%), near-duplicates (2%), price variance (4%), qty mismatch/partial delivery (4%), missing PO (2%), wrong vendor name (3%), currency issues (1%)
+- [x] Ground truth JSON per invoice: correct fields, correct match outcome, correct resolution category
+- [x] Split: 150 invoices locked as **test set** (never tune on it); rest is dev
 
 **Deliverable:** discovery doc, dataset, ground truth.
 **Done when:** one command regenerates the full dataset, and the discovery doc is readable in 5 minutes by a stranger.

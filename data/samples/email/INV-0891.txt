@@ -1,0 +1,22 @@
+From: billing@northwindfas.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10890 from Northwind Fasteners Supplies 165 (PO-10890)
+Date: 2026-08-02 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10890
+Invoice Number: INV-2026-10890
+Invoice Date: 2026-08-02
+Currency: USD
+Purchase Order: PO-10890
+
+--- Line Items ---
+1. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 200 | Unit: 0.18 | Total: 36.00
+
+Subtotal: USD 36.00
+Tax: USD 2.16
+Total Due: USD 38.16
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Fasteners Supplies 165 Billing Department

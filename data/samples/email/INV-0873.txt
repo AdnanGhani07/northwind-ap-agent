@@ -1,0 +1,23 @@
+From: billing@globalpneuma.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10872 from Global Pneumatics Supply (PO-10872)
+Date: 2026-09-12 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10872
+Invoice Number: INV-2026-10872
+Invoice Date: 2026-09-12
+Currency: USD
+Purchase Order: PO-10872
+
+--- Line Items ---
+1. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 20 | Unit: 32.00 | Total: 640.00
+2. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 20 | Unit: 3.20 | Total: 64.00
+
+Subtotal: USD 704.00
+Tax: USD 42.24
+Total Due: USD 746.24
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Global Pneumatics Supply Billing Department

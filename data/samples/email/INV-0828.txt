@@ -1,0 +1,25 @@
+From: billing@northwindval.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10827 from Northwind Valves Supplies 195 (PO-10827)
+Date: 2026-07-28 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10827
+Invoice Number: INV-2026-10827
+Invoice Date: 2026-07-28
+Currency: USD
+Purchase Order: PO-10827
+
+--- Line Items ---
+1. SKU: WSH-M8-FLT | Flat Washer M8 Stainless Steel | Qty: 200 | Unit: 0.12 | Total: 24.00
+2. SKU: HYD-SEA-045 | Nitrile O-Ring Kit 450-Piece | Qty: 200 | Unit: 22.50 | Total: 4500.00
+3. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 100 | Unit: 24.50 | Total: 2450.00
+4. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 50 | Unit: 14.50 | Total: 725.00
+
+Subtotal: USD 7699.00
+Tax: USD 461.94
+Total Due: USD 8160.94
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Valves Supplies 195 Billing Department

@@ -1,0 +1,24 @@
+From: billing@northwindtoo.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10899 from Northwind Tooling Distributors 128 (PO-10899)
+Date: 2026-09-06 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10899
+Invoice Number: INV-2026-10899
+Invoice Date: 2026-09-06
+Currency: USD
+Purchase Order: PO-10899
+
+--- Line Items ---
+1. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 20 | Unit: 14.50 | Total: 290.00
+2. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 50 | Unit: 4.50 | Total: 225.00
+3. SKU: MRO-WIP-100 | Lint-Free Industrial Shop Wipes (100pk) | Qty: 200 | Unit: 18.00 | Total: 3600.00
+
+Subtotal: USD 4115.00
+Tax: USD 246.90
+Total Due: USD 4361.90
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Tooling Distributors 128 Billing Department

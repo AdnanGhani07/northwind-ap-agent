@@ -1,0 +1,25 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10892 from Northwind Hardware Corp 56 (PO-10892)
+Date: 2026-08-23 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10892
+Invoice Number: INV-2026-10892
+Invoice Date: 2026-08-23
+Currency: USD
+Purchase Order: PO-10892
+
+--- Line Items ---
+1. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 200 | Unit: 2.10 | Total: 420.00
+2. SKU: HYD-SEA-045 | Nitrile O-Ring Kit 450-Piece | Qty: 20 | Unit: 24.55 | Total: 491.00
+3. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 200 | Unit: 32.00 | Total: 6400.00
+4. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 100 | Unit: 5.50 | Total: 550.00
+
+Subtotal: USD 7861.00
+Tax: USD 471.66
+Total Due: USD 8332.66
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Corp 56 Billing Department

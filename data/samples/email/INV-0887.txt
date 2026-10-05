@@ -1,0 +1,24 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10886 from Northwind Pumps Corp 22 (PO-10886)
+Date: 2026-07-28 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10886
+Invoice Number: INV-2026-10886
+Invoice Date: 2026-07-28
+Currency: USD
+Purchase Order: PO-10886
+
+--- Line Items ---
+1. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 100 | Unit: 46.00 | Total: 4600.00
+2. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 20 | Unit: 0.45 | Total: 9.00
+3. SKU: FST-M10-60 | Hex Bolt M10x60 Grade 10.9 Black | Qty: 100 | Unit: 0.85 | Total: 85.00
+
+Subtotal: USD 4694.00
+Tax: USD 281.64
+Total Due: USD 4975.64
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Corp 22 Billing Department

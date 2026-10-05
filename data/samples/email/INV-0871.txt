@@ -1,0 +1,22 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10870 from Northwind Electrical Distributors 46 (PO-10870)
+Date: 2026-08-12 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10870
+Invoice Number: INV-2026-10870
+Invoice Date: 2026-08-12
+Currency: USD
+Purchase Order: PO-10870
+
+--- Line Items ---
+1. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 500 | Unit: 4.50 | Total: 2250.00
+
+Subtotal: USD 2250.00
+Tax: USD 135.00
+Total Due: USD 2385.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Distributors 46 Billing Department

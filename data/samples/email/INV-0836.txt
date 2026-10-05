@@ -1,0 +1,25 @@
+From: billing@northwindmet.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10835 from Northwind Metals Manufacturing 49 (PO-10835)
+Date: 2026-08-13 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10835
+Invoice Number: INV-2026-10835
+Invoice Date: 2026-08-13
+Currency: USD
+Purchase Order: PO-10835
+
+--- Line Items ---
+1. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 200 | Unit: 3.20 | Total: 640.00
+2. SKU: WSH-M8-FLT | Flat Washer M8 Stainless Steel | Qty: 500 | Unit: 0.12 | Total: 60.00
+3. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 20 | Unit: 0.22 | Total: 4.40
+4. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 200 | Unit: 4.50 | Total: 900.00
+
+Subtotal: USD 1604.40
+Tax: USD 96.26
+Total Due: USD 1700.66
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Metals Manufacturing 49 Billing Department

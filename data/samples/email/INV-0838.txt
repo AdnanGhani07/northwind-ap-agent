@@ -1,0 +1,22 @@
+From: billing@northwindpac.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10837 from Northwind Packaging Industries 159 (PO-10837)
+Date: 2026-08-31 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10837
+Invoice Number: INV-2026-10837
+Invoice Date: 2026-08-31
+Currency: USD
+Purchase Order: PO-10837
+
+--- Line Items ---
+1. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 50 | Unit: 5.50 | Total: 275.00
+
+Subtotal: USD 275.00
+Tax: USD 16.50
+Total Due: USD 291.50
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Packaging Industries 159 Billing Department

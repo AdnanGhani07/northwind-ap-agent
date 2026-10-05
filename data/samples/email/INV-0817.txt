@@ -1,0 +1,23 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10816 from Northwind Pumps Supplies 90 (PO-10816)
+Date: 2026-08-13 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10816
+Invoice Number: INV-2026-10816
+Invoice Date: 2026-08-13
+Currency: USD
+Purchase Order: PO-10816
+
+--- Line Items ---
+1. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 200 | Unit: 5.50 | Total: 1100.00
+2. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 20 | Unit: 0.22 | Total: 4.40
+
+Subtotal: USD 1104.40
+Tax: USD 66.26
+Total Due: USD 1170.66
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Supplies 90 Billing Department

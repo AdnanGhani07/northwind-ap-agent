@@ -1,0 +1,23 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10800 from Northwind Hardware Manufacturing 153 (PO-10800)
+Date: 2026-08-09 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10800
+Invoice Number: INV-2026-10800
+Invoice Date: 2026-08-09
+Currency: USD
+Purchase Order: PO-10800
+
+--- Line Items ---
+1. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 500 | Unit: 24.50 | Total: 12250.00
+2. SKU: FST-M10-60 | Hex Bolt M10x60 Grade 10.9 Black | Qty: 50 | Unit: 0.85 | Total: 42.50
+
+Subtotal: USD 12292.50
+Tax: USD 737.55
+Total Due: USD 13030.05
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Manufacturing 153 Billing Department

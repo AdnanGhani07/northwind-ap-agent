@@ -1,0 +1,25 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10106 from Northwind Pumps Corp 174 (PO-10106)
+Date: 2026-08-01 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10106
+Invoice Number: INV-2026-10106
+Invoice Date: 2026-08-01
+Currency: USD
+Purchase Order: PO-10106
+
+--- Line Items ---
+1. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 20 | Unit: 0.18 | Total: 3.60
+2. SKU: HYD-SEA-045 | Nitrile O-Ring Kit 450-Piece | Qty: 50 | Unit: 22.50 | Total: 1125.00
+3. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 200 | Unit: 2.10 | Total: 420.00
+4. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 500 | Unit: 5.50 | Total: 2750.00
+
+Subtotal: USD 4298.60
+Tax: USD 257.92
+Total Due: USD 4556.52
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Corp 174 Billing Department

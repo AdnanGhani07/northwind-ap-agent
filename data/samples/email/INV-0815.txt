@@ -1,0 +1,24 @@
+From: billing@northwindfas.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10814 from Northwind Fasteners Corp 62 (PO-10814)
+Date: 2026-07-11 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10814
+Invoice Number: INV-2026-10814
+Invoice Date: 2026-07-11
+Currency: USD
+Purchase Order: PO-10814
+
+--- Line Items ---
+1. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 20 | Unit: 46.00 | Total: 920.00
+2. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 500 | Unit: 0.22 | Total: 110.00
+3. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 20 | Unit: 0.45 | Total: 9.00
+
+Subtotal: USD 1039.00
+Tax: USD 62.34
+Total Due: USD 1101.34
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Fasteners Corp 62 Billing Department

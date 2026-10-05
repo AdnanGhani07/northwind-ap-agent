@@ -1,0 +1,25 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10869 from Northwind Electrical Industries 233 (PO-10869)
+Date: 2026-08-02 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10869
+Invoice Number: INV-2026-10869
+Invoice Date: 2026-08-02
+Currency: USD
+Purchase Order: PO-10869
+
+--- Line Items ---
+1. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 20 | Unit: 0.22 | Total: 4.40
+2. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 20 | Unit: 38.00 | Total: 760.00
+3. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 200 | Unit: 0.45 | Total: 90.00
+4. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 100 | Unit: 32.00 | Total: 3200.00
+
+Subtotal: USD 4054.40
+Tax: USD 243.26
+Total Due: USD 4297.66
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Industries 233 Billing Department

@@ -1,0 +1,24 @@
+From: billing@northwindbea.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10817 from Northwind Bearings Corp 244 (PO-10817)
+Date: 2026-08-13 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10817
+Invoice Number: INV-2026-10817
+Invoice Date: 2026-08-13
+Currency: USD
+Purchase Order: PO-10817
+
+--- Line Items ---
+1. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 100 | Unit: 0.18 | Total: 18.00
+2. SKU: MRO-WIP-100 | Lint-Free Industrial Shop Wipes (100pk) | Qty: 20 | Unit: 18.00 | Total: 360.00
+3. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 50 | Unit: 0.22 | Total: 11.00
+
+Subtotal: USD 389.00
+Tax: USD 23.34
+Total Due: USD 412.34
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Bearings Corp 244 Billing Department

@@ -1,0 +1,23 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10868 from Northwind Electrical Supplies 31 (PO-10868)
+Date: 2026-07-18 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10868
+Invoice Number: INV-2026-10868
+Invoice Date: 2026-07-18
+Currency: USD
+Purchase Order: PO-10868
+
+--- Line Items ---
+1. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 50 | Unit: 24.50 | Total: 1225.00
+2. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 20 | Unit: 8.75 | Total: 175.00
+
+Subtotal: USD 1400.00
+Tax: USD 84.00
+Total Due: USD 1484.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Supplies 31 Billing Department

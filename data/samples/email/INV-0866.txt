@@ -1,0 +1,23 @@
+From: billing@nwhardwarema.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10865 from NW Hardware Manufacturing 197 (PO-10865)
+Date: 2026-09-19 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10865
+Invoice Number: INV-2026-10865
+Invoice Date: 2026-09-19
+Currency: USD
+Purchase Order: PO-10865
+
+--- Line Items ---
+1. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 500 | Unit: 0.45 | Total: 225.00
+2. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 20 | Unit: 0.18 | Total: 3.60
+
+Subtotal: USD 228.60
+Tax: USD 13.72
+Total Due: USD 242.32
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: NW Hardware Manufacturing 197 Billing Department

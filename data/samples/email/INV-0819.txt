@@ -1,0 +1,25 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10818 from Northwind Pumps Manufacturing 85 (PO-10818)
+Date: 2026-07-31 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10818
+Invoice Number: INV-2026-10818
+Invoice Date: 2026-07-31
+Currency: USD
+Purchase Order: PO-10818
+
+--- Line Items ---
+1. SKU: WSH-M8-FLT | Flat Washer M8 Stainless Steel | Qty: 20 | Unit: 0.12 | Total: 2.40
+2. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 200 | Unit: 24.50 | Total: 4900.00
+3. SKU: HYD-SEA-045 | Nitrile O-Ring Kit 450-Piece | Qty: 100 | Unit: 22.50 | Total: 2250.00
+4. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 20 | Unit: 4.50 | Total: 90.00
+
+Subtotal: USD 7242.40
+Tax: USD 434.54
+Total Due: USD 7676.94
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Manufacturing 85 Billing Department

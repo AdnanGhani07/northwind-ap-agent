@@ -1,0 +1,23 @@
+From: billing@northwindtoo.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10819 from Northwind Tooling Distributors 37 (PO-10819)
+Date: 2026-08-13 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10819
+Invoice Number: INV-2026-10819
+Invoice Date: 2026-08-13
+Currency: USD
+Purchase Order: PO-10819
+
+--- Line Items ---
+1. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 200 | Unit: 5.50 | Total: 1100.00
+2. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 20 | Unit: 2.10 | Total: 42.00
+
+Subtotal: USD 1142.00
+Tax: USD 68.52
+Total Due: USD 1210.52
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Tooling Distributors 37 Billing Department

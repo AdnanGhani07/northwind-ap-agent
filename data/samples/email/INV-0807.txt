@@ -1,0 +1,24 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10806 from Northwind Electrical Industries 208 (PO-10806)
+Date: 2026-07-06 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10806
+Invoice Number: INV-2026-10806
+Invoice Date: 2026-07-06
+Currency: USD
+Purchase Order: PO-10806
+
+--- Line Items ---
+1. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 100 | Unit: 14.50 | Total: 1450.00
+2. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 500 | Unit: 8.75 | Total: 4375.00
+3. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 200 | Unit: 4.50 | Total: 900.00
+
+Subtotal: USD 6725.00
+Tax: USD 403.50
+Total Due: USD 7128.50
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Industries 208 Billing Department

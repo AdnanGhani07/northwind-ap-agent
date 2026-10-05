@@ -1,0 +1,25 @@
+From: billing@northwindfas.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10843 from Northwind Fasteners Industries 57 (PO-10843)
+Date: 2026-08-22 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10843
+Invoice Number: INV-2026-10843
+Invoice Date: 2026-08-22
+Currency: USD
+Purchase Order: PO-10843
+
+--- Line Items ---
+1. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 500 | Unit: 0.18 | Total: 90.00
+2. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 20 | Unit: 3.20 | Total: 64.00
+3. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 50 | Unit: 2.10 | Total: 105.00
+4. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 200 | Unit: 14.50 | Total: 2900.00
+
+Subtotal: USD 3159.00
+Tax: USD 189.54
+Total Due: USD 3348.54
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Fasteners Industries 57 Billing Department

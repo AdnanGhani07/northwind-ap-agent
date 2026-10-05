@@ -1,0 +1,24 @@
+From: billing@northwindmet.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10867 from Northwind Metals Corp 199 (PO-10867)
+Date: 2026-08-24 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10867
+Invoice Number: INV-2026-10867
+Invoice Date: 2026-08-24
+Currency: USD
+Purchase Order: PO-10867
+
+--- Line Items ---
+1. SKU: FST-M10-60 | Hex Bolt M10x60 Grade 10.9 Black | Qty: 50 | Unit: 0.85 | Total: 42.50
+2. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 500 | Unit: 8.75 | Total: 4375.00
+3. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 20 | Unit: 0.18 | Total: 3.60
+
+Subtotal: USD 4421.10
+Tax: USD 265.27
+Total Due: USD 4686.37
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Metals Corp 199 Billing Department

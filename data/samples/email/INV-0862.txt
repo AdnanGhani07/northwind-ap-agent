@@ -1,0 +1,24 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10861 from Northwind Electrical Supplies 215 (PO-10861)
+Date: 2026-09-09 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10861
+Invoice Number: INV-2026-10861
+Invoice Date: 2026-09-09
+Currency: USD
+Purchase Order: PO-10861
+
+--- Line Items ---
+1. SKU: MRO-WIP-100 | Lint-Free Industrial Shop Wipes (100pk) | Qty: 50 | Unit: 18.00 | Total: 900.00
+2. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 50 | Unit: 4.50 | Total: 225.00
+3. SKU: SAF-RES-N95 | Particulate Respirator N95 (20pk) | Qty: 20 | Unit: 28.00 | Total: 560.00
+
+Subtotal: USD 1685.00
+Tax: USD 101.10
+Total Due: USD 1786.10
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Supplies 215 Billing Department

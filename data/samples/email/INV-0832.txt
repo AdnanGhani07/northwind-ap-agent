@@ -1,0 +1,25 @@
+From: billing@northwindval.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10831 from Northwind Valves Corp 205 (PO-10831)
+Date: 2026-08-22 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10831
+Invoice Number: INV-2026-10831
+Invoice Date: 2026-08-22
+Currency: USD
+Purchase Order: PO-10831
+
+--- Line Items ---
+1. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 20 | Unit: 32.00 | Total: 640.00
+2. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 500 | Unit: 8.75 | Total: 4375.00
+3. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 20 | Unit: 0.22 | Total: 4.40
+4. SKU: FST-M10-60 | Hex Bolt M10x60 Grade 10.9 Black | Qty: 100 | Unit: 0.85 | Total: 85.00
+
+Subtotal: USD 5104.40
+Tax: USD 306.26
+Total Due: USD 5410.66
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Valves Corp 205 Billing Department

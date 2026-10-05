@@ -1,0 +1,25 @@
+From: billing@montréalindu.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10881 from Montréal Industrial Fittings (PO-10881)
+Date: 2026-08-10 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10881
+Invoice Number: INV-2026-10881
+Invoice Date: 2026-08-10
+Currency: CAD
+Purchase Order: PO-10881
+
+--- Line Items ---
+1. SKU: NUT-M10-HEX | Standard Hex Nut M10 Class 8 | Qty: 500 | Unit: 0.22 | Total: 110.00
+2. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 500 | Unit: 46.00 | Total: 23000.00
+3. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 50 | Unit: 2.10 | Total: 105.00
+4. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 100 | Unit: 0.18 | Total: 18.00
+
+Subtotal: CAD 23233.00
+Tax: CAD 1393.98
+Total Due: CAD 24626.98
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Montréal Industrial Fittings Billing Department

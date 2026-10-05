@@ -1,0 +1,23 @@
+From: billing@northwindsaf.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10898 from Northwind Safety Manufacturing 52 (PO-10898)
+Date: 2026-07-25 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10898
+Invoice Number: INV-2026-10898
+Invoice Date: 2026-07-25
+Currency: USD
+Purchase Order: PO-10898
+
+--- Line Items ---
+1. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 500 | Unit: 3.20 | Total: 1600.00
+2. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 20 | Unit: 24.50 | Total: 490.00
+
+Subtotal: USD 2090.00
+Tax: USD 125.40
+Total Due: USD 2215.40
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Safety Manufacturing 52 Billing Department

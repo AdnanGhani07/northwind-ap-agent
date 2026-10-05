@@ -1,0 +1,24 @@
+From: billing@northwindfas.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10839 from Northwind Fasteners Corp 24 (PO-10839)
+Date: 2026-08-31 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10839
+Invoice Number: INV-2026-10839
+Invoice Date: 2026-08-31
+Currency: USD
+Purchase Order: PO-10839
+
+--- Line Items ---
+1. SKU: TOOL-DRL-05 | HSS Cobalt Drill Bit 5.0mm | Qty: 20 | Unit: 4.50 | Total: 90.00
+2. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 500 | Unit: 24.50 | Total: 12250.00
+3. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 100 | Unit: 46.00 | Total: 4600.00
+
+Subtotal: USD 16940.00
+Tax: USD 1016.40
+Total Due: USD 17956.40
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Fasteners Corp 24 Billing Department

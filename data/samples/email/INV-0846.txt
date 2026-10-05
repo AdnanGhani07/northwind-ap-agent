@@ -1,0 +1,22 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10845 from Northwind Pumps Industries 179 (PO-10845)
+Date: 2026-09-04 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10845
+Invoice Number: INV-2026-10845
+Invoice Date: 2026-09-04
+Currency: USD
+Purchase Order: PO-10845
+
+--- Line Items ---
+1. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 200 | Unit: 8.75 | Total: 1750.00
+
+Subtotal: USD 1750.00
+Tax: USD 105.00
+Total Due: USD 1855.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Industries 179 Billing Department

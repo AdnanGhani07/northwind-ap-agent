@@ -1,0 +1,22 @@
+From: billing@northwindval.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10114 from Northwind Valves Corp 207 (PO-10114)
+Date: 2026-08-27 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10114
+Invoice Number: INV-2026-10114
+Invoice Date: 2026-08-27
+Currency: USD
+Purchase Order: PO-10114
+
+--- Line Items ---
+1. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 50 | Unit: 14.50 | Total: 725.00
+
+Subtotal: USD 725.00
+Tax: USD 43.50
+Total Due: USD 768.50
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Valves Corp 207 Billing Department

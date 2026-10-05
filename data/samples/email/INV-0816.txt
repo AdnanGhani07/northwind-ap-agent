@@ -1,0 +1,22 @@
+From: billing@acmefastener.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10815 from ACME Fasteners Inc. (PO-10815)
+Date: 2026-08-02 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10815
+Invoice Number: INV-2026-10815
+Invoice Date: 2026-08-02
+Currency: USD
+Purchase Order: PO-10815
+
+--- Line Items ---
+1. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 200 | Unit: 14.50 | Total: 2900.00
+
+Subtotal: USD 2900.00
+Tax: USD 174.00
+Total Due: USD 3074.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: ACME Fasteners Inc. Billing Department

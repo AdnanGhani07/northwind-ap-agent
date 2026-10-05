@@ -1,0 +1,25 @@
+From: billing@northwindmet.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10877 from Northwind Metals Supplies 64 (PO-10877)
+Date: 2026-09-17 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10877
+Invoice Number: INV-2026-10877
+Invoice Date: 2026-09-17
+Currency: USD
+Purchase Order: PO-10877
+
+--- Line Items ---
+1. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 20 | Unit: 24.50 | Total: 490.00
+2. SKU: HYD-SEA-045 | Nitrile O-Ring Kit 450-Piece | Qty: 50 | Unit: 22.50 | Total: 1125.00
+3. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 200 | Unit: 3.20 | Total: 640.00
+4. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 100 | Unit: 35.02 | Total: 3502.00
+
+Subtotal: USD 5757.00
+Tax: USD 345.42
+Total Due: USD 6102.42
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Metals Supplies 64 Billing Department

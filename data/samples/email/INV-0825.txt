@@ -1,0 +1,25 @@
+From: billing@northwindhar.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10824 from Northwind Hardware Supplies 117 (PO-10824)
+Date: 2026-07-24 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10824
+Invoice Number: INV-2026-10824
+Invoice Date: 2026-07-24
+Currency: USD
+Purchase Order: PO-10824
+
+--- Line Items ---
+1. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 50 | Unit: 14.50 | Total: 725.00
+2. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 50 | Unit: 32.00 | Total: 1600.00
+3. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 20 | Unit: 46.00 | Total: 920.00
+4. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 100 | Unit: 0.45 | Total: 45.00
+
+Subtotal: USD 3290.00
+Tax: USD 197.40
+Total Due: USD 3487.40
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Hardware Supplies 117 Billing Department

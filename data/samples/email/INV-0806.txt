@@ -1,0 +1,24 @@
+From: billing@northwindmet.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10805 from Northwind Metals Supplies 166 (PO-10805)
+Date: 2026-08-20 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10805
+Invoice Number: INV-2026-10805
+Invoice Date: 2026-08-20
+Currency: USD
+Purchase Order: PO-10805
+
+--- Line Items ---
+1. SKU: MRO-WIP-100 | Lint-Free Industrial Shop Wipes (100pk) | Qty: 50 | Unit: 18.00 | Total: 900.00
+2. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 500 | Unit: 0.18 | Total: 90.00
+3. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 100 | Unit: 8.75 | Total: 875.00
+
+Subtotal: USD 1865.00
+Tax: USD 111.90
+Total Due: USD 1976.90
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Metals Supplies 166 Billing Department

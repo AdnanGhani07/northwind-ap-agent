@@ -1,0 +1,22 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10850 from Northwind Pumps Manufacturing 143 (PO-10850)
+Date: 2026-07-31 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10850
+Invoice Number: INV-2026-10850
+Invoice Date: 2026-07-31
+Currency: USD
+Purchase Order: PO-10850
+
+--- Line Items ---
+1. SKU: WSH-M8-FLT | Flat Washer M8 Stainless Steel | Qty: 100 | Unit: 0.12 | Total: 12.00
+
+Subtotal: USD 12.00
+Tax: USD 0.72
+Total Due: USD 12.72
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Manufacturing 143 Billing Department

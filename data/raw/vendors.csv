@@ -1,0 +1,251 @@
+VENDOR_ID,CANONICAL_NAME,TAX_ID,ADDRESS,PAYMENT_TERMS,CURRENCY
+VEND-1000,ACME Fasteners Inc. ,US-11223344,"Chicago, IL",Net 30,USD
+VEND-1001,Midwest Precision Tooling LLC,US-22334455,"Detroit, MI",Net 30,USD
+VEND-1002,Vanguard Safety Gear Co.,US-33445566,"Cleveland, OH",Net 45,USD
+VEND-1003,Apex Industrial Lubricants,US-44556677,"Indianapolis, IN",Net 30,USD
+VEND-1004,Titan Hydraulics Corp.,US-55667788,"Milwaukee, WI",Net 30,USD
+VEND-1005,Global Pneumatics Supply ,US-66778899,"Minneapolis, MN",Net 60,USD
+VEND-1006,Superior Bearing & Seal Inc.,US-77889900,"Akron, OH",Net 30,USD
+VEND-1007,Tri-State Industrial Hardware,US-88990011,"Peoria, IL",Net 30,USD
+VEND-1008,Frontier Cutting Tools,US-99001122,"Rockford, IL",Net 45,USD
+VEND-1009,Delta Abrasives Corp.,US-10111213,"Cincinnati, OH",Net 30,USD
+VEND-1010,Müller Precision Tooling GmbH ,DE-99887766,"Stuttgart, Germany",Net 30,EUR
+VEND-1011,Montréal Industrial Fittings,CA-55443322,"Montréal, QC",Net 30,CAD
+VEND-1012,Northwind Fasteners Corp 12,US-46913810,"Gary, IN",Net 45,USD
+VEND-1013,Northwind Metals Manufacturing 13,US-23756669,"Fort Wayne, IN",Net 30,USD
+VEND-1014,Northwind Bearings Supplies 14,US-14265799,"Chicago, IL",Net 30,USD
+VEND-1015,Northwind Hardware Inc. 15 ,US-77827638,"Green Bay, WI",Net 30,USD
+VEND-1016,Northwind Pumps Inc. 16,US-97226012,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1017,Northwind Hardware Supplies 17,US-89089901,"Kalamazoo, MI",Net 30,USD
+VEND-1018,Northwind Metals Manufacturing 18,US-66722344,"Kalamazoo, MI",Net 60,USD
+VEND-1019,Northwind Metals Inc. 19,US-55176955,"Chicago, IL",Net 30,USD
+VEND-1020,Northwind Safety Corp 20 ,US-58181396,"Grand Rapids, MI",Net 60,USD
+VEND-1021,Northwind Bearings LLC 21,US-15831819,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1022,Northwind Pumps Corp 22,US-60806024,"Chicago, IL",Net 60,USD
+VEND-1023,Northwind Bearings Distributors 23,US-58537831,"Green Bay, WI",Net 45,USD
+VEND-1024,Northwind Fasteners Corp 24,US-98753260,"Gary, IN",Net 60,USD
+VEND-1025,Northwind Fasteners Distributors 25 ,US-41244663,"Grand Rapids, MI",Net 30,USD
+VEND-1026,Northwind Safety LLC 26,US-70855700,"Fort Wayne, IN",Net 60,USD
+VEND-1027,Northwind Metals LLC 27,US-57683626,"Gary, IN",Net 60,USD
+VEND-1028,Northwind Fasteners Industries 28,US-95225343,"Gary, IN",Net 45,USD
+VEND-1029,Northwind Metals Supplies 29,US-60929647,"Kalamazoo, MI",Net 45,USD
+VEND-1030,Northwind Electrical Distributors 30 ,US-17507864,"Gary, IN",Net 30,USD
+VEND-1031,Northwind Electrical Supplies 31,US-45935572,"Chicago, IL",Net 45,USD
+VEND-1032,Northwind Bearings Manufacturing 32,US-52235350,"Gary, IN",2/10 Net 30,USD
+VEND-1033,Northwind Safety Manufacturing 33,US-71586053,"Gary, IN",Net 60,USD
+VEND-1034,Northwind Metals Inc. 34,US-85345555,"Green Bay, WI",Net 60,USD
+VEND-1035,Northwind Bearings Supplies 35 ,US-88320463,"Toledo, OH",Net 60,USD
+VEND-1036,Northwind Hardware Inc. 36,US-78387461,"Toledo, OH",Net 30,USD
+VEND-1037,Northwind Tooling Distributors 37,US-24716857,"Gary, IN",Net 45,USD
+VEND-1038,Northwind Safety Industries 38,US-18526544,"Toledo, OH",2/10 Net 30,USD
+VEND-1039,Northwind Bearings Supplies 39,US-81016525,"Kalamazoo, MI",Net 30,USD
+VEND-1040,Northwind Fasteners Manufacturing 40 ,US-82070937,"Grand Rapids, MI",Net 60,USD
+VEND-1041,Northwind Electrical Corp 41,US-49392920,"Toledo, OH",Net 45,USD
+VEND-1042,Northwind Valves Corp 42,US-45351479,"Green Bay, WI",Net 45,USD
+VEND-1043,Northwind Pumps Corp 43,US-93926371,"Kalamazoo, MI",Net 45,USD
+VEND-1044,Northwind Metals LLC 44,US-31682744,"Green Bay, WI",Net 30,USD
+VEND-1045,Northwind Bearings LLC 45 ,US-75579548,"Chicago, IL",Net 30,USD
+VEND-1046,Northwind Electrical Distributors 46,US-51273847,"Gary, IN",Net 30,USD
+VEND-1047,Northwind Hardware Industries 47,US-20570592,"Chicago, IL",2/10 Net 30,USD
+VEND-1048,Northwind Fasteners Distributors 48,US-81498611,"Grand Rapids, MI",Net 45,USD
+VEND-1049,Northwind Metals Manufacturing 49,US-73791320,"Green Bay, WI",Net 45,USD
+VEND-1050,Northwind Packaging Industries 50 ,US-91415657,"Toledo, OH",Net 45,USD
+VEND-1051,Northwind Pumps Distributors 51,US-36998038,"Fort Wayne, IN",Net 60,USD
+VEND-1052,Northwind Safety Manufacturing 52,US-97225156,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1053,Northwind Pumps Supplies 53,US-26240908,"Gary, IN",Net 45,USD
+VEND-1054,Northwind Fasteners LLC 54,US-12823170,"Green Bay, WI",Net 45,USD
+VEND-1055,Northwind Bearings Inc. 55 ,US-10965138,"Chicago, IL",Net 30,USD
+VEND-1056,Northwind Hardware Corp 56,US-14216175,"Grand Rapids, MI",Net 60,USD
+VEND-1057,Northwind Fasteners Industries 57,US-41944441,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1058,Northwind Hardware Industries 58,US-27758595,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1059,Northwind Hardware Distributors 59,US-73481353,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1060,Northwind Hardware Corp 60 ,US-23009833,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1061,Northwind Electrical Supplies 61,US-65177213,"Toledo, OH",Net 30,USD
+VEND-1062,Northwind Fasteners Corp 62,US-64038913,"Fort Wayne, IN",Net 60,USD
+VEND-1063,Northwind Fasteners Inc. 63,US-35714784,"Gary, IN",2/10 Net 30,USD
+VEND-1064,Northwind Metals Supplies 64,US-34627347,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1065,Northwind Hardware Distributors 65 ,US-20117988,"Toledo, OH",Net 30,USD
+VEND-1066,Northwind Tooling Manufacturing 66,US-82556484,"Grand Rapids, MI",Net 30,USD
+VEND-1067,Northwind Fasteners Distributors 67,US-41726318,"Gary, IN",2/10 Net 30,USD
+VEND-1068,Northwind Valves Supplies 68,US-38688676,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1069,Northwind Tooling Inc. 69,US-60864911,"Chicago, IL",2/10 Net 30,USD
+VEND-1070,Northwind Packaging Distributors 70 ,US-71070189,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1071,Northwind Pumps Manufacturing 71,US-75319931,"Gary, IN",Net 45,USD
+VEND-1072,Northwind Packaging Inc. 72,US-17849494,"Green Bay, WI",Net 30,USD
+VEND-1073,Northwind Electrical Corp 73,US-16729990,"Green Bay, WI",2/10 Net 30,USD
+VEND-1074,Northwind Pumps Distributors 74,US-81286543,"Gary, IN",Net 30,USD
+VEND-1075,Northwind Pumps Corp 75 ,US-34941004,"Chicago, IL",Net 30,USD
+VEND-1076,Northwind Hardware Supplies 76,US-26090908,"Green Bay, WI",Net 45,USD
+VEND-1077,Northwind Bearings Industries 77,US-15334035,"Green Bay, WI",Net 30,USD
+VEND-1078,Northwind Safety Manufacturing 78,US-88339168,"Green Bay, WI",Net 60,USD
+VEND-1079,Northwind Packaging Inc. 79,US-99889098,"Fort Wayne, IN",Net 60,USD
+VEND-1080,Northwind Hardware LLC 80 ,US-63121477,"Gary, IN",Net 60,USD
+VEND-1081,Northwind Valves LLC 81,US-19736572,"Chicago, IL",2/10 Net 30,USD
+VEND-1082,Northwind Bearings Industries 82,US-23419256,"Chicago, IL",Net 45,USD
+VEND-1083,Northwind Pumps LLC 83,US-27778019,"Kalamazoo, MI",Net 30,USD
+VEND-1084,Northwind Hardware LLC 84,US-48250360,"Gary, IN",2/10 Net 30,USD
+VEND-1085,Northwind Pumps Manufacturing 85 ,US-50603163,"Green Bay, WI",Net 30,USD
+VEND-1086,Northwind Pumps LLC 86,US-99038526,"Chicago, IL",Net 45,USD
+VEND-1087,Northwind Packaging Corp 87,US-24366125,"Fort Wayne, IN",Net 45,USD
+VEND-1088,Northwind Packaging LLC 88,US-91178885,"Gary, IN",Net 60,USD
+VEND-1089,Northwind Hardware Manufacturing 89,US-95125977,"Grand Rapids, MI",Net 60,USD
+VEND-1090,Northwind Pumps Supplies 90 ,US-43704923,"Grand Rapids, MI",Net 30,USD
+VEND-1091,Northwind Fasteners Manufacturing 91,US-66851377,"Grand Rapids, MI",Net 60,USD
+VEND-1092,Northwind Tooling Corp 92,US-54769200,"Grand Rapids, MI",Net 45,USD
+VEND-1093,Northwind Packaging Inc. 93,US-69302158,"Green Bay, WI",2/10 Net 30,USD
+VEND-1094,Northwind Pumps Corp 94,US-25015458,"Chicago, IL",Net 45,USD
+VEND-1095,Northwind Pumps Corp 95 ,US-59555330,"Green Bay, WI",Net 45,USD
+VEND-1096,Northwind Safety Inc. 96,US-15614174,"Kalamazoo, MI",Net 60,USD
+VEND-1097,Northwind Tooling LLC 97,US-38195995,"Fort Wayne, IN",Net 45,USD
+VEND-1098,Northwind Fasteners LLC 98,US-85146293,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1099,Northwind Bearings Manufacturing 99,US-30743797,"Gary, IN",Net 45,USD
+VEND-1100,Northwind Metals Supplies 100 ,US-13326769,"Gary, IN",Net 60,USD
+VEND-1101,Northwind Safety Distributors 101,US-99913412,"Grand Rapids, MI",Net 45,USD
+VEND-1102,Northwind Packaging Inc. 102,US-24508349,"Toledo, OH",Net 30,USD
+VEND-1103,Northwind Valves Inc. 103,US-36786211,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1104,Northwind Electrical LLC 104,US-40547349,"Gary, IN",Net 30,USD
+VEND-1105,Northwind Hardware Supplies 105 ,US-54058573,"Kalamazoo, MI",Net 30,USD
+VEND-1106,Northwind Packaging LLC 106,US-96098221,"Green Bay, WI",2/10 Net 30,USD
+VEND-1107,Northwind Pumps LLC 107,US-13704481,"Chicago, IL",Net 60,USD
+VEND-1108,Northwind Metals Industries 108,US-45630292,"Chicago, IL",Net 30,USD
+VEND-1109,Northwind Bearings Supplies 109,US-56397338,"Fort Wayne, IN",Net 60,USD
+VEND-1110,Northwind Safety Industries 110 ,US-78642041,"Chicago, IL",2/10 Net 30,USD
+VEND-1111,Northwind Bearings Inc. 111,US-44188276,"Chicago, IL",2/10 Net 30,USD
+VEND-1112,Northwind Tooling Industries 112,US-82269803,"Fort Wayne, IN",Net 45,USD
+VEND-1113,Northwind Electrical Supplies 113,US-19391725,"Fort Wayne, IN",Net 60,USD
+VEND-1114,Northwind Bearings LLC 114,US-99038359,"Grand Rapids, MI",Net 30,USD
+VEND-1115,Northwind Packaging Industries 115 ,US-51511484,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1116,Northwind Electrical Supplies 116,US-49682169,"Green Bay, WI",Net 45,USD
+VEND-1117,Northwind Hardware Supplies 117,US-99245317,"Toledo, OH",Net 45,USD
+VEND-1118,Northwind Bearings Industries 118,US-50392808,"Toledo, OH",Net 30,USD
+VEND-1119,Northwind Packaging LLC 119,US-38210242,"Toledo, OH",Net 60,USD
+VEND-1120,Northwind Valves Supplies 120 ,US-69345683,"Fort Wayne, IN",Net 45,USD
+VEND-1121,Northwind Pumps Supplies 121,US-32775593,"Fort Wayne, IN",Net 30,USD
+VEND-1122,Northwind Packaging Industries 122,US-99100953,"Fort Wayne, IN",Net 60,USD
+VEND-1123,Northwind Fasteners Distributors 123,US-41523529,"Fort Wayne, IN",Net 60,USD
+VEND-1124,Northwind Hardware Distributors 124,US-36726767,"Gary, IN",Net 30,USD
+VEND-1125,Northwind Tooling Inc. 125 ,US-73771720,"Green Bay, WI",Net 30,USD
+VEND-1126,Northwind Valves Supplies 126,US-94525678,"Green Bay, WI",Net 45,USD
+VEND-1127,Northwind Safety Supplies 127,US-63640499,"Gary, IN",Net 45,USD
+VEND-1128,Northwind Tooling Distributors 128,US-24305904,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1129,Northwind Hardware Inc. 129,US-79519112,"Toledo, OH",Net 30,USD
+VEND-1130,Northwind Pumps Inc. 130 ,US-26288475,"Toledo, OH",Net 45,USD
+VEND-1131,Northwind Valves Manufacturing 131,US-81287314,"Green Bay, WI",Net 60,USD
+VEND-1132,Northwind Valves Industries 132,US-77750178,"Toledo, OH",2/10 Net 30,USD
+VEND-1133,Northwind Metals Manufacturing 133,US-73709724,"Toledo, OH",Net 60,USD
+VEND-1134,Northwind Hardware Distributors 134,US-95585469,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1135,Northwind Hardware LLC 135 ,US-69038700,"Chicago, IL",Net 60,USD
+VEND-1136,Northwind Hardware LLC 136,US-55076693,"Kalamazoo, MI",Net 30,USD
+VEND-1137,Northwind Metals Inc. 137,US-41039390,"Toledo, OH",Net 45,USD
+VEND-1138,Northwind Hardware Corp 138,US-65682626,"Toledo, OH",Net 60,USD
+VEND-1139,Northwind Pumps Supplies 139,US-65804273,"Chicago, IL",Net 45,USD
+VEND-1140,Northwind Safety Supplies 140 ,US-88393811,"Fort Wayne, IN",Net 30,USD
+VEND-1141,Northwind Bearings Supplies 141,US-74019136,"Chicago, IL",Net 60,USD
+VEND-1142,Northwind Packaging Distributors 142,US-62343121,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1143,Northwind Pumps Manufacturing 143,US-83300637,"Grand Rapids, MI",Net 45,USD
+VEND-1144,Northwind Valves Inc. 144,US-46632757,"Toledo, OH",2/10 Net 30,USD
+VEND-1145,Northwind Tooling Supplies 145 ,US-55114543,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1146,Northwind Metals Distributors 146,US-72732043,"Gary, IN",Net 30,USD
+VEND-1147,Northwind Safety Industries 147,US-85751409,"Fort Wayne, IN",Net 30,USD
+VEND-1148,Northwind Fasteners Manufacturing 148,US-67527432,"Gary, IN",2/10 Net 30,USD
+VEND-1149,Northwind Metals Corp 149,US-44917589,"Toledo, OH",Net 60,USD
+VEND-1150,Northwind Hardware Supplies 150 ,US-53868501,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1151,Northwind Packaging Distributors 151,US-66581473,"Kalamazoo, MI",Net 30,USD
+VEND-1152,Northwind Valves Corp 152,US-82399599,"Chicago, IL",Net 60,USD
+VEND-1153,Northwind Hardware Manufacturing 153,US-19209801,"Grand Rapids, MI",Net 30,USD
+VEND-1154,Northwind Tooling Inc. 154,US-36757737,"Grand Rapids, MI",Net 30,USD
+VEND-1155,Northwind Bearings Inc. 155 ,US-42016960,"Gary, IN",2/10 Net 30,USD
+VEND-1156,Northwind Fasteners Industries 156,US-39254705,"Toledo, OH",Net 60,USD
+VEND-1157,Northwind Electrical Inc. 157,US-91321540,"Green Bay, WI",Net 30,USD
+VEND-1158,Northwind Metals LLC 158,US-24508768,"Green Bay, WI",Net 30,USD
+VEND-1159,Northwind Packaging Industries 159,US-60372847,"Toledo, OH",Net 45,USD
+VEND-1160,Northwind Fasteners Industries 160 ,US-94187049,"Gary, IN",Net 30,USD
+VEND-1161,Northwind Packaging Distributors 161,US-90585882,"Grand Rapids, MI",Net 30,USD
+VEND-1162,Northwind Bearings Distributors 162,US-15512205,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1163,Northwind Electrical Corp 163,US-77908907,"Fort Wayne, IN",Net 60,USD
+VEND-1164,Northwind Tooling Distributors 164,US-66379329,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1165,Northwind Fasteners Supplies 165 ,US-58612055,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1166,Northwind Metals Supplies 166,US-33640702,"Fort Wayne, IN",Net 60,USD
+VEND-1167,Northwind Bearings Distributors 167,US-82232344,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1168,Northwind Valves Supplies 168,US-89520597,"Kalamazoo, MI",Net 60,USD
+VEND-1169,Northwind Hardware Distributors 169,US-21631697,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1170,Northwind Hardware Distributors 170 ,US-72372114,"Green Bay, WI",2/10 Net 30,USD
+VEND-1171,Northwind Electrical Corp 171,US-76344695,"Grand Rapids, MI",Net 60,USD
+VEND-1172,Northwind Metals Supplies 172,US-38470244,"Kalamazoo, MI",Net 60,USD
+VEND-1173,Northwind Electrical LLC 173,US-90014570,"Fort Wayne, IN",Net 60,USD
+VEND-1174,Northwind Pumps Corp 174,US-79340535,"Gary, IN",Net 30,USD
+VEND-1175,Northwind Hardware Manufacturing 175 ,US-64549859,"Toledo, OH",Net 45,USD
+VEND-1176,Northwind Valves Manufacturing 176,US-75876924,"Toledo, OH",Net 30,USD
+VEND-1177,Northwind Fasteners LLC 177,US-39742165,"Toledo, OH",Net 45,USD
+VEND-1178,Northwind Packaging Manufacturing 178,US-88055069,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1179,Northwind Pumps Industries 179,US-56138336,"Toledo, OH",Net 60,USD
+VEND-1180,Northwind Electrical Manufacturing 180 ,US-70900658,"Kalamazoo, MI",Net 60,USD
+VEND-1181,Northwind Packaging Inc. 181,US-26194158,"Fort Wayne, IN",Net 45,USD
+VEND-1182,Northwind Electrical Corp 182,US-81922443,"Grand Rapids, MI",Net 45,USD
+VEND-1183,Northwind Hardware Inc. 183,US-74988034,"Kalamazoo, MI",Net 60,USD
+VEND-1184,Northwind Fasteners Distributors 184,US-36054020,"Kalamazoo, MI",Net 45,USD
+VEND-1185,Northwind Electrical Inc. 185 ,US-50569669,"Chicago, IL",Net 45,USD
+VEND-1186,Northwind Packaging Corp 186,US-17318358,"Green Bay, WI",Net 60,USD
+VEND-1187,Northwind Metals Manufacturing 187,US-75884623,"Chicago, IL",Net 30,USD
+VEND-1188,Northwind Bearings LLC 188,US-73001391,"Toledo, OH",2/10 Net 30,USD
+VEND-1189,Northwind Electrical Inc. 189,US-16895666,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1190,Northwind Fasteners Distributors 190 ,US-18770247,"Toledo, OH",2/10 Net 30,USD
+VEND-1191,Northwind Fasteners Industries 191,US-94482772,"Fort Wayne, IN",Net 30,USD
+VEND-1192,Northwind Metals Inc. 192,US-85543051,"Kalamazoo, MI",Net 30,USD
+VEND-1193,Northwind Hardware Corp 193,US-84903294,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1194,Northwind Bearings Industries 194,US-93002706,"Gary, IN",2/10 Net 30,USD
+VEND-1195,Northwind Valves Supplies 195 ,US-49910061,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1196,Northwind Packaging Industries 196,US-93352876,"Chicago, IL",Net 30,USD
+VEND-1197,Northwind Hardware Manufacturing 197,US-38323322,"Kalamazoo, MI",Net 30,USD
+VEND-1198,Northwind Metals Inc. 198,US-33328859,"Green Bay, WI",Net 30,USD
+VEND-1199,Northwind Metals Corp 199,US-64830300,"Toledo, OH",2/10 Net 30,USD
+VEND-1200,Northwind Packaging Corp 200 ,US-41068214,"Kalamazoo, MI",Net 60,USD
+VEND-1201,Northwind Valves Corp 201,US-41329612,"Kalamazoo, MI",Net 45,USD
+VEND-1202,Northwind Safety Corp 202,US-83089925,"Gary, IN",Net 45,USD
+VEND-1203,Northwind Packaging Distributors 203,US-29090631,"Chicago, IL",Net 30,USD
+VEND-1204,Northwind Metals Distributors 204,US-51286958,"Green Bay, WI",Net 60,USD
+VEND-1205,Northwind Valves Corp 205 ,US-72907576,"Fort Wayne, IN",Net 60,USD
+VEND-1206,Northwind Safety LLC 206,US-77172238,"Green Bay, WI",2/10 Net 30,USD
+VEND-1207,Northwind Valves Corp 207,US-90267122,"Chicago, IL",2/10 Net 30,USD
+VEND-1208,Northwind Electrical Industries 208,US-43603811,"Chicago, IL",Net 30,USD
+VEND-1209,Northwind Hardware Manufacturing 209,US-87201917,"Green Bay, WI",Net 30,USD
+VEND-1210,Northwind Packaging Industries 210 ,US-15399803,"Grand Rapids, MI",Net 45,USD
+VEND-1211,Northwind Valves Industries 211,US-97444123,"Toledo, OH",Net 60,USD
+VEND-1212,Northwind Metals Industries 212,US-68503492,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1213,Northwind Fasteners Supplies 213,US-56702542,"Toledo, OH",Net 60,USD
+VEND-1214,Northwind Electrical Manufacturing 214,US-24039158,"Grand Rapids, MI",Net 45,USD
+VEND-1215,Northwind Electrical Supplies 215 ,US-76500726,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1216,Northwind Pumps Corp 216,US-71045700,"Chicago, IL",Net 60,USD
+VEND-1217,Northwind Packaging LLC 217,US-25558733,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1218,Northwind Pumps Distributors 218,US-10154493,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1219,Northwind Safety Corp 219,US-35176902,"Green Bay, WI",Net 60,USD
+VEND-1220,Northwind Bearings Distributors 220 ,US-76906611,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1221,Northwind Tooling Inc. 221,US-45843681,"Green Bay, WI",Net 45,USD
+VEND-1222,Northwind Packaging Supplies 222,US-75056916,"Chicago, IL",Net 30,USD
+VEND-1223,Northwind Bearings Distributors 223,US-42117961,"Fort Wayne, IN",Net 45,USD
+VEND-1224,Northwind Packaging Industries 224,US-11835355,"Green Bay, WI",2/10 Net 30,USD
+VEND-1225,Northwind Fasteners Inc. 225 ,US-25228493,"Toledo, OH",Net 30,USD
+VEND-1226,Northwind Metals Supplies 226,US-49172995,"Green Bay, WI",Net 60,USD
+VEND-1227,Northwind Safety Distributors 227,US-74759996,"Toledo, OH",Net 45,USD
+VEND-1228,Northwind Valves Industries 228,US-29413516,"Toledo, OH",Net 45,USD
+VEND-1229,Northwind Bearings Industries 229,US-28321839,"Grand Rapids, MI",Net 30,USD
+VEND-1230,Northwind Packaging Distributors 230 ,US-65692629,"Kalamazoo, MI",Net 60,USD
+VEND-1231,Northwind Tooling LLC 231,US-50071487,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1232,Northwind Metals Supplies 232,US-82287061,"Toledo, OH",Net 60,USD
+VEND-1233,Northwind Electrical Industries 233,US-82937948,"Toledo, OH",2/10 Net 30,USD
+VEND-1234,Northwind Electrical Distributors 234,US-35320492,"Fort Wayne, IN",Net 45,USD
+VEND-1235,Northwind Bearings Supplies 235 ,US-41348220,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1236,Northwind Tooling LLC 236,US-73481797,"Fort Wayne, IN",2/10 Net 30,USD
+VEND-1237,Northwind Safety Manufacturing 237,US-97512508,"Gary, IN",2/10 Net 30,USD
+VEND-1238,Northwind Tooling Inc. 238,US-77416376,"Green Bay, WI",Net 60,USD
+VEND-1239,Northwind Fasteners Distributors 239,US-69096899,"Chicago, IL",2/10 Net 30,USD
+VEND-1240,Northwind Tooling Manufacturing 240 ,US-29348212,"Toledo, OH",Net 45,USD
+VEND-1241,Northwind Fasteners Supplies 241,US-45570755,"Kalamazoo, MI",2/10 Net 30,USD
+VEND-1242,Northwind Fasteners Distributors 242,US-54099326,"Grand Rapids, MI",2/10 Net 30,USD
+VEND-1243,Northwind Electrical Manufacturing 243,US-75491202,"Grand Rapids, MI",Net 30,USD
+VEND-1244,Northwind Bearings Corp 244,US-41510328,"Fort Wayne, IN",Net 60,USD
+VEND-1245,Northwind Hardware Manufacturing 245 ,US-22130508,"Toledo, OH",Net 30,USD
+VEND-1246,Northwind Fasteners Supplies 246,US-32329103,"Fort Wayne, IN",Net 60,USD
+VEND-1247,Northwind Tooling Corp 247,US-53536830,"Grand Rapids, MI",Net 30,USD
+VEND-1248,Northwind Packaging LLC 248,US-60310319,"Toledo, OH",Net 45,USD
+VEND-1249,Northwind Hardware Industries 249,US-65304649,"Green Bay, WI",Net 45,USD

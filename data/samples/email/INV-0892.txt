@@ -1,0 +1,25 @@
+From: billing@apexindustri.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10891 from Apex Industrial Lubricants (PO-10891)
+Date: 2026-08-04 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10891
+Invoice Number: INV-2026-10891
+Invoice Date: 2026-08-04
+Currency: USD
+Purchase Order: PO-10891
+
+--- Line Items ---
+1. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 100 | Unit: 5.50 | Total: 550.00
+2. SKU: TOOL-END-12 | Carbide End Mill 4-Flute 12mm | Qty: 500 | Unit: 32.00 | Total: 16000.00
+3. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 100 | Unit: 38.00 | Total: 3800.00
+4. SKU: FST-M10-60 | Hex Bolt M10x60 Grade 10.9 Black | Qty: 50 | Unit: 0.85 | Total: 42.50
+
+Subtotal: USD 20392.50
+Tax: USD 1223.55
+Total Due: USD 21616.05
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Apex Industrial Lubricants Billing Department

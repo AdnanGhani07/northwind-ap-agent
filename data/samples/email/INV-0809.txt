@@ -1,0 +1,25 @@
+From: billing@northwindbea.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10808 from Northwind Bearings LLC 114 (PO-10808)
+Date: 2026-08-02 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10808
+Invoice Number: INV-2026-10808
+Invoice Date: 2026-08-02
+Currency: USD
+Purchase Order: PO-10808
+
+--- Line Items ---
+1. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 200 | Unit: 3.20 | Total: 640.00
+2. SKU: WSH-M8-FLT | Flat Washer M8 Stainless Steel | Qty: 200 | Unit: 0.12 | Total: 24.00
+3. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 50 | Unit: 38.00 | Total: 1900.00
+4. SKU: FST-M10-60 | Hex Bolt M10x60 Grade 10.9 Black | Qty: 500 | Unit: 0.85 | Total: 425.00
+
+Subtotal: USD 2989.00
+Tax: USD 179.34
+Total Due: USD 3168.34
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Bearings LLC 114 Billing Department

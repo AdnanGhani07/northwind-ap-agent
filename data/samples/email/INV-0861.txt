@@ -1,0 +1,23 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10860 from Northwind Electrical Manufacturing 214 (PO-10860)
+Date: 2026-08-27 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10860
+Invoice Number: INV-2026-10860
+Invoice Date: 2026-08-27
+Currency: USD
+Purchase Order: PO-10860
+
+--- Line Items ---
+1. SKU: FST-M8-50 | Hex Bolt M8x50 Grade 8.8 Zinc | Qty: 20 | Unit: 0.45 | Total: 9.00
+2. SKU: SAF-RES-N95 | Particulate Respirator N95 (20pk) | Qty: 20 | Unit: 28.00 | Total: 560.00
+
+Subtotal: USD 569.00
+Tax: USD 34.14
+Total Due: USD 603.14
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Manufacturing 214 Billing Department

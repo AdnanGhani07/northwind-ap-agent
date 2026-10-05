@@ -1,0 +1,23 @@
+From: billing@northwindbea.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10888 from Northwind Bearings LLC 114 (PO-10888)
+Date: 2026-07-19 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10888
+Invoice Number: INV-2026-10888
+Invoice Date: 2026-07-19
+Currency: USD
+Purchase Order: PO-10888
+
+--- Line Items ---
+1. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 100 | Unit: 38.00 | Total: 3800.00
+2. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 200 | Unit: 46.00 | Total: 9200.00
+
+Subtotal: USD 13000.00
+Tax: USD 780.00
+Total Due: USD 13780.00
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Bearings LLC 114 Billing Department

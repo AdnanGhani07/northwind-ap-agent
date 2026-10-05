@@ -1,0 +1,23 @@
+From: billing@northwindpum.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10858 from Northwind Pumps Distributors 74 (PO-10858)
+Date: 2026-08-27 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10858
+Invoice Number: INV-2026-10858
+Invoice Date: 2026-08-27
+Currency: USD
+Purchase Order: PO-10858
+
+--- Line Items ---
+1. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 500 | Unit: 14.50 | Total: 7250.00
+2. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 20 | Unit: 2.10 | Total: 42.00
+
+Subtotal: USD 7292.00
+Tax: USD 437.52
+Total Due: USD 7729.52
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Pumps Distributors 74 Billing Department

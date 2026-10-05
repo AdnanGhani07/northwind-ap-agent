@@ -1,0 +1,22 @@
+From: billing@northwindpac.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10134 from Northwind Packaging Industries 210 (PO-10134)
+Date: 2026-08-24 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10134
+Invoice Number: INV-2026-10134
+Invoice Date: 2026-08-24
+Currency: USD
+Purchase Order: PO-10134
+
+--- Line Items ---
+1. SKU: MRO-DEG-05L | Heavy Duty Citrus Degreaser 5L | Qty: 50 | Unit: 24.50 | Total: 1225.00
+
+Subtotal: USD 1225.00
+Tax: USD 73.50
+Total Due: USD 1298.50
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Packaging Industries 210 Billing Department

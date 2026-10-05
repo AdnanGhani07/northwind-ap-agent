@@ -1,0 +1,24 @@
+From: billing@northwindfas.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10884 from Northwind Fasteners Corp 24 (PO-10884)
+Date: 2026-08-26 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10884
+Invoice Number: INV-2026-10884
+Invoice Date: 2026-08-26
+Currency: USD
+Purchase Order: PO-10884
+
+--- Line Items ---
+1. SKU: MRO-LUB-400 | Synthetic Industrial Bearing Grease 400g | Qty: 200 | Unit: 8.75 | Total: 1750.00
+2. SKU: MRO-WIP-100 | Lint-Free Industrial Shop Wipes (100pk) | Qty: 500 | Unit: 18.00 | Total: 9000.00
+3. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 200 | Unit: 3.20 | Total: 640.00
+
+Subtotal: USD 11390.00
+Tax: USD 683.40
+Total Due: USD 12073.40
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Fasteners Corp 24 Billing Department

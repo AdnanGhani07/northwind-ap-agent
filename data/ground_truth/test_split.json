@@ -1,0 +1,6451 @@
+[
+  {
+    "invoice_id": "INV-0001",
+    "filename": "INV-0001.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1043",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 43",
+    "canonical_vendor_name": "Northwind Pumps Corp 43",
+    "invoice_number": "INV-2026-10000",
+    "invoice_date": "2026-07-26",
+    "currency": "USD",
+    "po_reference": "PO-10000",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      }
+    ],
+    "subtotal": 2750.0,
+    "tax_amount": 165.0,
+    "total_amount": 2915.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0002",
+    "filename": "INV-0002.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1233",
+    "vendor_name_on_invoice": "Northwind Electrical Industries 233",
+    "canonical_vendor_name": "Northwind Electrical Industries 233",
+    "invoice_number": "INV-2026-10001",
+    "invoice_date": "2026-09-19",
+    "currency": "USD",
+    "po_reference": "PO-10001",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 100,
+        "unit_price": 14.5,
+        "total": 1450.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      }
+    ],
+    "subtotal": 1660.0,
+    "tax_amount": 99.6,
+    "total_amount": 1759.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0003",
+    "filename": "INV-0003.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1230",
+    "vendor_name_on_invoice": "Northwind Packaging Distributors 230",
+    "canonical_vendor_name": "Northwind Packaging Distributors 230",
+    "invoice_number": "INV-2026-10002",
+    "invoice_date": "2026-08-11",
+    "currency": "USD",
+    "po_reference": "PO-10002",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 100,
+        "unit_price": 0.18,
+        "total": 18.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      }
+    ],
+    "subtotal": 438.0,
+    "tax_amount": 26.28,
+    "total_amount": 464.28,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0004",
+    "filename": "INV-0004.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1216",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 216",
+    "canonical_vendor_name": "Northwind Pumps Corp 216",
+    "invoice_number": "INV-2026-10003",
+    "invoice_date": "2026-08-13",
+    "currency": "USD",
+    "po_reference": "PO-10003",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 200,
+        "unit_price": 38.0,
+        "total": 7600.0
+      }
+    ],
+    "subtotal": 7710.0,
+    "tax_amount": 462.6,
+    "total_amount": 8172.6,
+    "problem_type": "QTY_MISMATCH",
+    "problem_details": {
+      "sku": "SAF-EYE-CLR",
+      "billed_qty": 20,
+      "received_qty": 12
+    },
+    "expected_match_outcome": "QTY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_QTY_MISMATCH"
+  },
+  {
+    "invoice_id": "INV-0005",
+    "filename": "INV-0005.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1075",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 75",
+    "canonical_vendor_name": "Northwind Pumps Corp 75",
+    "invoice_number": "INV-2026-10004",
+    "invoice_date": "2026-08-12",
+    "currency": "USD",
+    "po_reference": "PO-10004",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      }
+    ],
+    "subtotal": 550.0,
+    "tax_amount": 33.0,
+    "total_amount": 583.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0006",
+    "filename": "INV-0006.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1221",
+    "vendor_name_on_invoice": "Northwind Tooling Inc. 221",
+    "canonical_vendor_name": "Northwind Tooling Inc. 221",
+    "invoice_number": "INV-2026-10005",
+    "invoice_date": "2026-07-14",
+    "currency": "USD",
+    "po_reference": "PO-10005",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 50,
+        "unit_price": 14.5,
+        "total": 725.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 20,
+        "unit_price": 3.2,
+        "total": 64.0
+      },
+      {
+        "line_number": 4,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 200,
+        "unit_price": 0.22,
+        "total": 44.0
+      }
+    ],
+    "subtotal": 2058.0,
+    "tax_amount": 123.48,
+    "total_amount": 2181.48,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0007",
+    "filename": "INV-0007.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1093",
+    "vendor_name_on_invoice": "Northwind Packaging Inc. 93",
+    "canonical_vendor_name": "Northwind Packaging Inc. 93",
+    "invoice_number": "INV-2026-10006",
+    "invoice_date": "2026-07-23",
+    "currency": "USD",
+    "po_reference": "PO-10006",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 100,
+        "unit_price": 24.5,
+        "total": 2450.0
+      }
+    ],
+    "subtotal": 2450.0,
+    "tax_amount": 147.0,
+    "total_amount": 2597.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0008",
+    "filename": "INV-0008.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1051",
+    "vendor_name_on_invoice": "Northwind Pumps Distributors 51",
+    "canonical_vendor_name": "Northwind Pumps Distributors 51",
+    "invoice_number": "INV-2026-10007",
+    "invoice_date": "2026-07-21",
+    "currency": "USD",
+    "po_reference": "PO-10007",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 50,
+        "unit_price": 22.5,
+        "total": 1125.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 200,
+        "unit_price": 46.0,
+        "total": 9200.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      }
+    ],
+    "subtotal": 11200.0,
+    "tax_amount": 672.0,
+    "total_amount": 11872.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0009",
+    "filename": "INV-0009.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1246",
+    "vendor_name_on_invoice": "Northwind Fasteners Supplies 246",
+    "canonical_vendor_name": "Northwind Fasteners Supplies 246",
+    "invoice_number": "INV-2026-10008",
+    "invoice_date": "2026-07-14",
+    "currency": "USD",
+    "po_reference": "PO-10008",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 500,
+        "unit_price": 16.45,
+        "total": 8225.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      }
+    ],
+    "subtotal": 8335.0,
+    "tax_amount": 500.1,
+    "total_amount": 8835.1,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "TOOL-TAP-M8",
+      "po_price": 14.5,
+      "invoice_price": 16.45
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0010",
+    "filename": "INV-0010.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1067",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 67",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 67",
+    "invoice_number": "INV-2026-10009",
+    "invoice_date": "2026-09-14",
+    "currency": "USD",
+    "po_reference": "PO-10009",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      }
+    ],
+    "subtotal": 210.0,
+    "tax_amount": 12.6,
+    "total_amount": 222.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0011",
+    "filename": "INV-0011.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1097",
+    "vendor_name_on_invoice": "Northwind Tooling LLC 97",
+    "canonical_vendor_name": "Northwind Tooling LLC 97",
+    "invoice_number": "INV-2026-10010",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10010",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 200,
+        "unit_price": 14.5,
+        "total": 2900.0
+      }
+    ],
+    "subtotal": 2900.0,
+    "tax_amount": 174.0,
+    "total_amount": 3074.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0012",
+    "filename": "INV-0012.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1226",
+    "vendor_name_on_invoice": "Northwind Metals Supplies 226",
+    "canonical_vendor_name": "Northwind Metals Supplies 226",
+    "invoice_number": "INV-2026-10011",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "po_reference": "PO-10011",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 100,
+        "unit_price": 14.5,
+        "total": 1450.0
+      },
+      {
+        "line_number": 2,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 20,
+        "unit_price": 0.18,
+        "total": 3.6
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 20,
+        "unit_price": 2.1,
+        "total": 42.0
+      }
+    ],
+    "subtotal": 1495.6,
+    "tax_amount": 89.74,
+    "total_amount": 1585.34,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0013",
+    "filename": "INV-0013.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1126",
+    "vendor_name_on_invoice": "Northwind Valves Supplies 126",
+    "canonical_vendor_name": "Northwind Valves Supplies 126",
+    "invoice_number": "INV-2026-10012",
+    "invoice_date": "2026-07-20",
+    "currency": "USD",
+    "po_reference": "PO-10012",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 500,
+        "unit_price": 14.5,
+        "total": 7250.0
+      }
+    ],
+    "subtotal": 7250.0,
+    "tax_amount": 435.0,
+    "total_amount": 7685.0,
+    "problem_type": "QTY_MISMATCH",
+    "problem_details": {
+      "sku": "TOOL-TAP-M8",
+      "billed_qty": 500,
+      "received_qty": 261
+    },
+    "expected_match_outcome": "QTY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_QTY_MISMATCH"
+  },
+  {
+    "invoice_id": "INV-0014",
+    "filename": "INV-0014.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1116",
+    "vendor_name_on_invoice": "NORTHWIND ELECTRICAL SUPPLIES 116",
+    "canonical_vendor_name": "Northwind Electrical Supplies 116",
+    "invoice_number": "INV-2026-10013",
+    "invoice_date": "2026-08-23",
+    "currency": "USD",
+    "po_reference": "PO-10013",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 200,
+        "unit_price": 0.12,
+        "total": 24.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 100,
+        "unit_price": 0.22,
+        "total": 22.0
+      },
+      {
+        "line_number": 4,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 200,
+        "unit_price": 22.5,
+        "total": 4500.0
+      }
+    ],
+    "subtotal": 7346.0,
+    "tax_amount": 440.76,
+    "total_amount": 7786.76,
+    "problem_type": "WRONG_VENDOR",
+    "problem_details": {
+      "invoice_vendor_text": "NORTHWIND ELECTRICAL SUPPLIES 116",
+      "canonical_vendor": "Northwind Electrical Supplies 116"
+    },
+    "expected_match_outcome": "VENDOR_UNRESOLVED",
+    "expected_resolution_category": "HUMAN_REVIEW_VENDOR"
+  },
+  {
+    "invoice_id": "INV-0015",
+    "filename": "INV-0015.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1218",
+    "vendor_name_on_invoice": "Northwind Pumps Distributors 218",
+    "canonical_vendor_name": "Northwind Pumps Distributors 218",
+    "invoice_number": "INV-2026-10014",
+    "invoice_date": "2026-08-23",
+    "currency": "USD",
+    "po_reference": "PO-10014",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 500,
+        "unit_price": 3.2,
+        "total": 1600.0
+      }
+    ],
+    "subtotal": 1600.0,
+    "tax_amount": 96.0,
+    "total_amount": 1696.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0016",
+    "filename": "INV-0016.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1101",
+    "vendor_name_on_invoice": "Northwind Safety Distributors 101",
+    "canonical_vendor_name": "Northwind Safety Distributors 101",
+    "invoice_number": "INV-2026-10015",
+    "invoice_date": "2026-08-09",
+    "currency": "USD",
+    "po_reference": "PO-10015",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 20,
+        "unit_price": 0.22,
+        "total": 4.4
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 500,
+        "unit_price": 2.1,
+        "total": 1050.0
+      }
+    ],
+    "subtotal": 1054.4,
+    "tax_amount": 63.26,
+    "total_amount": 1117.66,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0017",
+    "filename": "INV-0017.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1201",
+    "vendor_name_on_invoice": "Northwind Valves Corp 201",
+    "canonical_vendor_name": "Northwind Valves Corp 201",
+    "invoice_number": "INV-2026-10016",
+    "invoice_date": "2026-08-18",
+    "currency": "USD",
+    "po_reference": "PO-10016",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 500,
+        "unit_price": 32.0,
+        "total": 16000.0
+      }
+    ],
+    "subtotal": 16002.4,
+    "tax_amount": 960.14,
+    "total_amount": 16962.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0018",
+    "filename": "INV-0018.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1084",
+    "vendor_name_on_invoice": "Hardware LLC 84",
+    "canonical_vendor_name": "Northwind Hardware LLC 84",
+    "invoice_number": "INV-2026-10017",
+    "invoice_date": "2026-07-23",
+    "currency": "USD",
+    "po_reference": "PO-10017",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 50,
+        "unit_price": 8.75,
+        "total": 437.5
+      }
+    ],
+    "subtotal": 437.5,
+    "tax_amount": 26.25,
+    "total_amount": 463.75,
+    "problem_type": "WRONG_VENDOR",
+    "problem_details": {
+      "invoice_vendor_text": "Hardware LLC 84",
+      "canonical_vendor": "Northwind Hardware LLC 84"
+    },
+    "expected_match_outcome": "VENDOR_UNRESOLVED",
+    "expected_resolution_category": "HUMAN_REVIEW_VENDOR"
+  },
+  {
+    "invoice_id": "INV-0019",
+    "filename": "INV-0019.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1064",
+    "vendor_name_on_invoice": "Northwind Metals Supplies 64",
+    "canonical_vendor_name": "Northwind Metals Supplies 64",
+    "invoice_number": "INV-2026-10018",
+    "invoice_date": "2026-07-28",
+    "currency": "USD",
+    "po_reference": "PO-10018",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 50,
+        "unit_price": 0.45,
+        "total": 22.5
+      }
+    ],
+    "subtotal": 22.5,
+    "tax_amount": 1.35,
+    "total_amount": 23.85,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0020",
+    "filename": "INV-0020.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1202",
+    "vendor_name_on_invoice": "Northwind Safety Corp 202",
+    "canonical_vendor_name": "Northwind Safety Corp 202",
+    "invoice_number": "INV-2026-10019",
+    "invoice_date": "2026-08-06",
+    "currency": "USD",
+    "po_reference": "PO-10019",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 200,
+        "unit_price": 4.5,
+        "total": 900.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 20,
+        "unit_price": 8.75,
+        "total": 175.0
+      }
+    ],
+    "subtotal": 1084.0,
+    "tax_amount": 65.04,
+    "total_amount": 1149.04,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0021",
+    "filename": "INV-0021.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1199",
+    "vendor_name_on_invoice": "Metals Corp 199",
+    "canonical_vendor_name": "Northwind Metals Corp 199",
+    "invoice_number": "INV-2026-10020",
+    "invoice_date": "2026-08-20",
+    "currency": "USD",
+    "po_reference": "PO-10020",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 500,
+        "unit_price": 2.1,
+        "total": 1050.0
+      }
+    ],
+    "subtotal": 1050.0,
+    "tax_amount": 63.0,
+    "total_amount": 1113.0,
+    "problem_type": "WRONG_VENDOR",
+    "problem_details": {
+      "invoice_vendor_text": "Metals Corp 199",
+      "canonical_vendor": "Northwind Metals Corp 199"
+    },
+    "expected_match_outcome": "VENDOR_UNRESOLVED",
+    "expected_resolution_category": "HUMAN_REVIEW_VENDOR"
+  },
+  {
+    "invoice_id": "INV-0022",
+    "filename": "INV-0022.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1011",
+    "vendor_name_on_invoice": "Montr\u00e9al Industrial Fittings",
+    "canonical_vendor_name": "Montr\u00e9al Industrial Fittings",
+    "invoice_number": "INV-2026-10021",
+    "invoice_date": "2026-09-08",
+    "currency": "CAD",
+    "po_reference": "PO-10021",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 200,
+        "unit_price": 0.45,
+        "total": 90.0
+      },
+      {
+        "line_number": 3,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 200,
+        "unit_price": 0.85,
+        "total": 170.0
+      }
+    ],
+    "subtotal": 680.0,
+    "tax_amount": 40.8,
+    "total_amount": 720.8,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0023",
+    "filename": "INV-0023.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1230",
+    "vendor_name_on_invoice": "Northwind Packaging Distributors 230",
+    "canonical_vendor_name": "Northwind Packaging Distributors 230",
+    "invoice_number": "INV-2026-10022",
+    "invoice_date": "2026-07-14",
+    "currency": "USD",
+    "po_reference": "PO-10022",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 100,
+        "unit_price": 0.12,
+        "total": 12.0
+      },
+      {
+        "line_number": 2,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 200,
+        "unit_price": 46.0,
+        "total": 9200.0
+      }
+    ],
+    "subtotal": 9248.0,
+    "tax_amount": 554.88,
+    "total_amount": 9802.88,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0024",
+    "filename": "INV-0024.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1203",
+    "vendor_name_on_invoice": "Northwind Packaging Distributors 203",
+    "canonical_vendor_name": "Northwind Packaging Distributors 203",
+    "invoice_number": "INV-2026-10023",
+    "invoice_date": "2026-07-22",
+    "currency": "USD",
+    "po_reference": "PO-10023",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 50,
+        "unit_price": 28.0,
+        "total": 1400.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      }
+    ],
+    "subtotal": 1610.0,
+    "tax_amount": 96.6,
+    "total_amount": 1706.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0025",
+    "filename": "INV-0025.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1106",
+    "vendor_name_on_invoice": "Northwind Packaging LLC 106",
+    "canonical_vendor_name": "Northwind Packaging LLC 106",
+    "invoice_number": "INV-2026-10024",
+    "invoice_date": "2026-07-19",
+    "currency": "USD",
+    "po_reference": "PO-10024",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 200,
+        "unit_price": 18.0,
+        "total": 3600.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 20,
+        "unit_price": 8.75,
+        "total": 175.0
+      }
+    ],
+    "subtotal": 6575.0,
+    "tax_amount": 394.5,
+    "total_amount": 6969.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0026",
+    "filename": "INV-0026.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1110",
+    "vendor_name_on_invoice": "Northwind Safety Industries 110",
+    "canonical_vendor_name": "Northwind Safety Industries 110",
+    "invoice_number": "INV-2026-10025",
+    "invoice_date": "2026-07-18",
+    "currency": "USD",
+    "po_reference": "PO-10025",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 100,
+        "unit_price": 0.85,
+        "total": 85.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 20,
+        "unit_price": 18.0,
+        "total": 360.0
+      }
+    ],
+    "subtotal": 447.4,
+    "tax_amount": 26.84,
+    "total_amount": 474.24,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0027",
+    "filename": "INV-0027.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1079",
+    "vendor_name_on_invoice": "Northwind Packaging Inc. 79",
+    "canonical_vendor_name": "Northwind Packaging Inc. 79",
+    "invoice_number": "INV-2026-10026",
+    "invoice_date": "2026-08-21",
+    "currency": "USD",
+    "po_reference": "PO-10026",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 50,
+        "unit_price": 22.5,
+        "total": 1125.0
+      }
+    ],
+    "subtotal": 1125.0,
+    "tax_amount": 67.5,
+    "total_amount": 1192.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0028",
+    "filename": "INV-0028.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1123",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 123",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 123",
+    "invoice_number": "INV-2026-10027",
+    "invoice_date": "2026-08-02",
+    "currency": "USD",
+    "po_reference": "PO-10027",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 500,
+        "unit_price": 3.2,
+        "total": 1600.0
+      }
+    ],
+    "subtotal": 1600.0,
+    "tax_amount": 96.0,
+    "total_amount": 1696.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0029",
+    "filename": "INV-0029.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1195",
+    "vendor_name_on_invoice": "Northwind Valves Supplies 195",
+    "canonical_vendor_name": "Northwind Valves Supplies 195",
+    "invoice_number": "INV-2026-10028",
+    "invoice_date": "2026-08-08",
+    "currency": "USD",
+    "po_reference": "PO-10028",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 500,
+        "unit_price": 28.0,
+        "total": 14000.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      }
+    ],
+    "subtotal": 14009.0,
+    "tax_amount": 840.54,
+    "total_amount": 14849.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0030",
+    "filename": "INV-0030.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1179",
+    "vendor_name_on_invoice": "Northwind Pumps Industries 179",
+    "canonical_vendor_name": "Northwind Pumps Industries 179",
+    "invoice_number": "INV-2026-10029",
+    "invoice_date": "2026-08-14",
+    "currency": "USD",
+    "po_reference": "PO-10029",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 50,
+        "unit_price": 3.2,
+        "total": 160.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 20,
+        "unit_price": 4.5,
+        "total": 90.0
+      }
+    ],
+    "subtotal": 259.0,
+    "tax_amount": 15.54,
+    "total_amount": 274.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0031",
+    "filename": "INV-0031.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1135",
+    "vendor_name_on_invoice": "Northwind Hardware LLC 135",
+    "canonical_vendor_name": "Northwind Hardware LLC 135",
+    "invoice_number": "INV-2026-10030",
+    "invoice_date": "2026-08-04",
+    "currency": "USD",
+    "po_reference": "PO-10030",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 20,
+        "unit_price": 18.0,
+        "total": 360.0
+      },
+      {
+        "line_number": 4,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 50,
+        "unit_price": 0.18,
+        "total": 9.0
+      }
+    ],
+    "subtotal": 3379.0,
+    "tax_amount": 202.74,
+    "total_amount": 3581.74,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0032",
+    "filename": "INV-0032.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1020",
+    "vendor_name_on_invoice": "Northwind Safety Corp 20",
+    "canonical_vendor_name": "Northwind Safety Corp 20",
+    "invoice_number": "INV-2026-10031",
+    "invoice_date": "2026-08-07",
+    "currency": "USD",
+    "po_reference": "PO-10031",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 500,
+        "unit_price": 38.0,
+        "total": 19000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      },
+      {
+        "line_number": 4,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 20,
+        "unit_price": 32.0,
+        "total": 640.0
+      }
+    ],
+    "subtotal": 22650.0,
+    "tax_amount": 1359.0,
+    "total_amount": 24009.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0033",
+    "filename": "INV-0033.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1173",
+    "vendor_name_on_invoice": "Northwind Electrical LLC 173",
+    "canonical_vendor_name": "Northwind Electrical LLC 173",
+    "invoice_number": "INV-2026-10032",
+    "invoice_date": "2026-09-17",
+    "currency": "USD",
+    "po_reference": "PO-10032",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 200,
+        "unit_price": 22.5,
+        "total": 4500.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 20,
+        "unit_price": 24.5,
+        "total": 490.0
+      },
+      {
+        "line_number": 3,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 100,
+        "unit_price": 0.85,
+        "total": 85.0
+      },
+      {
+        "line_number": 4,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 50,
+        "unit_price": 0.22,
+        "total": 11.0
+      }
+    ],
+    "subtotal": 5086.0,
+    "tax_amount": 305.16,
+    "total_amount": 5391.16,
+    "problem_type": "QTY_MISMATCH",
+    "problem_details": {
+      "sku": "HYD-SEA-045",
+      "billed_qty": 200,
+      "received_qty": 129
+    },
+    "expected_match_outcome": "QTY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_QTY_MISMATCH"
+  },
+  {
+    "invoice_id": "INV-0034",
+    "filename": "INV-0034.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1083",
+    "vendor_name_on_invoice": "Northwind Pumps LLC 83",
+    "canonical_vendor_name": "Northwind Pumps LLC 83",
+    "invoice_number": "INV-2026-10033",
+    "invoice_date": "2026-07-22",
+    "currency": "USD",
+    "po_reference": "PO-10033",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 200,
+        "unit_price": 38.0,
+        "total": 7600.0
+      }
+    ],
+    "subtotal": 7600.0,
+    "tax_amount": 456.0,
+    "total_amount": 8056.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0035",
+    "filename": "INV-0035.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1097",
+    "vendor_name_on_invoice": "Northwind Pumps Industries 179",
+    "canonical_vendor_name": "Northwind Tooling LLC 97",
+    "invoice_number": "INV-2026-10029",
+    "invoice_date": "2026-08-14",
+    "currency": "USD",
+    "po_reference": "PO-10029",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 50,
+        "unit_price": 3.2,
+        "total": 160.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 20,
+        "unit_price": 4.5,
+        "total": 90.0
+      }
+    ],
+    "subtotal": 259.0,
+    "tax_amount": 15.54,
+    "total_amount": 274.54,
+    "problem_type": "EXACT_DUPLICATE",
+    "problem_details": {
+      "original_invoice_id": "INV-0030",
+      "type": "exact_hash_match"
+    },
+    "expected_match_outcome": "DUPLICATE_SUSPECT",
+    "expected_resolution_category": "REJECT_DUPLICATE"
+  },
+  {
+    "invoice_id": "INV-0036",
+    "filename": "INV-0036.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1117",
+    "vendor_name_on_invoice": "Northwind Hardware Supplies 117",
+    "canonical_vendor_name": "Northwind Hardware Supplies 117",
+    "invoice_number": "INV-2026-10035",
+    "invoice_date": "2026-07-15",
+    "currency": "USD",
+    "po_reference": "PO-10035",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 200,
+        "unit_price": 5.5,
+        "total": 1100.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 100,
+        "unit_price": 46.0,
+        "total": 4600.0
+      }
+    ],
+    "subtotal": 8500.0,
+    "tax_amount": 510.0,
+    "total_amount": 9010.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0037",
+    "filename": "INV-0037.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1117",
+    "vendor_name_on_invoice": "Northwind Hardware Supplies 117",
+    "canonical_vendor_name": "Northwind Hardware Supplies 117",
+    "invoice_number": "INV-2026-10036",
+    "invoice_date": "2026-08-20",
+    "currency": "USD",
+    "po_reference": "PO-10036",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 20,
+        "unit_price": 28.0,
+        "total": 560.0
+      }
+    ],
+    "subtotal": 560.0,
+    "tax_amount": 33.6,
+    "total_amount": 593.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0038",
+    "filename": "INV-0038.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1150",
+    "vendor_name_on_invoice": "Northwind Hardware Supplies 150",
+    "canonical_vendor_name": "Northwind Hardware Supplies 150",
+    "invoice_number": "INV-2026-10037",
+    "invoice_date": "2026-08-28",
+    "currency": "USD",
+    "po_reference": "PO-10037",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      }
+    ],
+    "subtotal": 550.0,
+    "tax_amount": 33.0,
+    "total_amount": 583.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0039",
+    "filename": "INV-0039.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1085",
+    "vendor_name_on_invoice": "Northwind Pumps Manufacturing 85",
+    "canonical_vendor_name": "Northwind Pumps Manufacturing 85",
+    "invoice_number": "INV-2026-10038",
+    "invoice_date": "2026-07-25",
+    "currency": "USD",
+    "po_reference": "PO-10038",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 20,
+        "unit_price": 22.5,
+        "total": 450.0
+      }
+    ],
+    "subtotal": 450.0,
+    "tax_amount": 27.0,
+    "total_amount": 477.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0040",
+    "filename": "INV-0040.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1089",
+    "vendor_name_on_invoice": "Northwind Hardware Manufacturing 89",
+    "canonical_vendor_name": "Northwind Hardware Manufacturing 89",
+    "invoice_number": "INV-2026-10039",
+    "invoice_date": "2026-07-22",
+    "currency": "USD",
+    "po_reference": "PO-10039",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 100,
+        "unit_price": 0.22,
+        "total": 22.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 50,
+        "unit_price": 0.14,
+        "total": 7.0
+      }
+    ],
+    "subtotal": 29.0,
+    "tax_amount": 1.74,
+    "total_amount": 30.74,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "WSH-M8-FLT",
+      "po_price": 0.12,
+      "invoice_price": 0.14
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0041",
+    "filename": "INV-0041.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1019",
+    "vendor_name_on_invoice": "Northwind Metals Inc. 19",
+    "canonical_vendor_name": "Northwind Metals Inc. 19",
+    "invoice_number": "INV-2026-10040",
+    "invoice_date": "2026-07-29",
+    "currency": "USD",
+    "po_reference": "PO-10040",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 200,
+        "unit_price": 46.0,
+        "total": 9200.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 200,
+        "unit_price": 18.0,
+        "total": 3600.0
+      },
+      {
+        "line_number": 4,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      }
+    ],
+    "subtotal": 15810.0,
+    "tax_amount": 948.6,
+    "total_amount": 16758.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0042",
+    "filename": "INV-0042.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1014",
+    "vendor_name_on_invoice": "Bearings Supplies 14",
+    "canonical_vendor_name": "Northwind Bearings Supplies 14",
+    "invoice_number": "INV-2026-10041",
+    "invoice_date": "2026-08-21",
+    "currency": "USD",
+    "po_reference": "PO-10041",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 200,
+        "unit_price": 24.5,
+        "total": 4900.0
+      }
+    ],
+    "subtotal": 4900.0,
+    "tax_amount": 294.0,
+    "total_amount": 5194.0,
+    "problem_type": "WRONG_VENDOR",
+    "problem_details": {
+      "invoice_vendor_text": "Bearings Supplies 14",
+      "canonical_vendor": "Northwind Bearings Supplies 14"
+    },
+    "expected_match_outcome": "VENDOR_UNRESOLVED",
+    "expected_resolution_category": "HUMAN_REVIEW_VENDOR"
+  },
+  {
+    "invoice_id": "INV-0043",
+    "filename": "INV-0043.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1014",
+    "vendor_name_on_invoice": "Northwind Bearings Supplies 14",
+    "canonical_vendor_name": "Northwind Bearings Supplies 14",
+    "invoice_number": "INV-2026-10042",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10042",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 200,
+        "unit_price": 46.0,
+        "total": 9200.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      }
+    ],
+    "subtotal": 9786.0,
+    "tax_amount": 587.16,
+    "total_amount": 10373.16,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0044",
+    "filename": "INV-0044.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1038",
+    "vendor_name_on_invoice": "Northwind Safety Industries 38",
+    "canonical_vendor_name": "Northwind Safety Industries 38",
+    "invoice_number": "INV-2026-10043",
+    "invoice_date": "2026-07-11",
+    "currency": "USD",
+    "po_reference": "PO-10043",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 50,
+        "unit_price": 0.22,
+        "total": 11.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 50,
+        "unit_price": 18.0,
+        "total": 900.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      },
+      {
+        "line_number": 4,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      }
+    ],
+    "subtotal": 1822.0,
+    "tax_amount": 109.32,
+    "total_amount": 1931.32,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0045",
+    "filename": "INV-0045.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1099",
+    "vendor_name_on_invoice": "Northwind Bearings Manufacturing 99",
+    "canonical_vendor_name": "Northwind Bearings Manufacturing 99",
+    "invoice_number": "INV-2026-10044",
+    "invoice_date": "2026-08-27",
+    "currency": "USD",
+    "po_reference": "PO-10044",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 100,
+        "unit_price": 0.85,
+        "total": 85.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 500,
+        "unit_price": 18.0,
+        "total": 9000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 100,
+        "unit_price": 0.18,
+        "total": 18.0
+      }
+    ],
+    "subtotal": 9103.0,
+    "tax_amount": 546.18,
+    "total_amount": 9649.18,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0046",
+    "filename": "INV-0046.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1218",
+    "vendor_name_on_invoice": "Northwind Pumps Distributors 218",
+    "canonical_vendor_name": "Northwind Pumps Distributors 218",
+    "invoice_number": "INV-2026-10045",
+    "invoice_date": "2026-07-25",
+    "currency": "CAD",
+    "po_reference": "PO-10045",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 100,
+        "unit_price": 0.18,
+        "total": 18.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 50,
+        "unit_price": 0.12,
+        "total": 6.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 100,
+        "unit_price": 3.2,
+        "total": 320.0
+      }
+    ],
+    "subtotal": 344.0,
+    "tax_amount": 20.64,
+    "total_amount": 364.64,
+    "problem_type": "CURRENCY_MISMATCH",
+    "problem_details": {
+      "invoice_currency": "CAD",
+      "po_currency": "USD"
+    },
+    "expected_match_outcome": "CURRENCY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_CURRENCY"
+  },
+  {
+    "invoice_id": "INV-0047",
+    "filename": "INV-0047.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1202",
+    "vendor_name_on_invoice": "Northwind Safety Corp 202",
+    "canonical_vendor_name": "Northwind Safety Corp 202",
+    "invoice_number": "INV-2026-10046",
+    "invoice_date": "2026-08-19",
+    "currency": "USD",
+    "po_reference": "PO-10046",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 200,
+        "unit_price": 22.5,
+        "total": 4500.0
+      },
+      {
+        "line_number": 2,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 20,
+        "unit_price": 0.18,
+        "total": 3.6
+      }
+    ],
+    "subtotal": 4503.6,
+    "tax_amount": 270.22,
+    "total_amount": 4773.82,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0048",
+    "filename": "INV-0048.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1046",
+    "vendor_name_on_invoice": "Northwind Electrical Distributors 46",
+    "canonical_vendor_name": "Northwind Electrical Distributors 46",
+    "invoice_number": "INV-2026-10047",
+    "invoice_date": "2026-08-04",
+    "currency": "USD",
+    "po_reference": "PO-10047",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 50,
+        "unit_price": 38.0,
+        "total": 1900.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 20,
+        "unit_price": 32.0,
+        "total": 640.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 20,
+        "unit_price": 14.5,
+        "total": 290.0
+      }
+    ],
+    "subtotal": 2830.0,
+    "tax_amount": 169.8,
+    "total_amount": 2999.8,
+    "problem_type": "QTY_MISMATCH",
+    "problem_details": {
+      "sku": "PNEU-TUB-50M",
+      "billed_qty": 50,
+      "received_qty": 30
+    },
+    "expected_match_outcome": "QTY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_QTY_MISMATCH"
+  },
+  {
+    "invoice_id": "INV-0049",
+    "filename": "INV-0049.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1086",
+    "vendor_name_on_invoice": "Northwind Pumps LLC 86",
+    "canonical_vendor_name": "Northwind Pumps LLC 86",
+    "invoice_number": "INV-2026-10048",
+    "invoice_date": "2026-07-22",
+    "currency": "USD",
+    "po_reference": "PO-10048",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 500,
+        "unit_price": 0.12,
+        "total": 60.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 200,
+        "unit_price": 4.5,
+        "total": 900.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 200,
+        "unit_price": 22.5,
+        "total": 4500.0
+      },
+      {
+        "line_number": 4,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 50,
+        "unit_price": 28.0,
+        "total": 1400.0
+      }
+    ],
+    "subtotal": 6860.0,
+    "tax_amount": 411.6,
+    "total_amount": 7271.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0050",
+    "filename": "INV-0050.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1072",
+    "vendor_name_on_invoice": "Northwind Packaging Inc. 72",
+    "canonical_vendor_name": "Northwind Packaging Inc. 72",
+    "invoice_number": "INV-2026-10049",
+    "invoice_date": "2026-09-02",
+    "currency": "USD",
+    "po_reference": "PO-10049",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 100,
+        "unit_price": 46.0,
+        "total": 4600.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 50,
+        "unit_price": 14.5,
+        "total": 725.0
+      }
+    ],
+    "subtotal": 5325.0,
+    "tax_amount": 319.5,
+    "total_amount": 5644.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0051",
+    "filename": "INV-0051.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1242",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 242",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 242",
+    "invoice_number": "INV-2026-10050",
+    "invoice_date": "2026-09-16",
+    "currency": "USD",
+    "po_reference": "PO-10050",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 500,
+        "unit_price": 2.1,
+        "total": 1050.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      },
+      {
+        "line_number": 4,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      }
+    ],
+    "subtotal": 5900.0,
+    "tax_amount": 354.0,
+    "total_amount": 6254.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0052",
+    "filename": "INV-0052.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1123",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 123",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 123",
+    "invoice_number": "INV-2026-10051",
+    "invoice_date": "2026-08-20",
+    "currency": "USD",
+    "po_reference": "PO-10051",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 20,
+        "unit_price": 22.5,
+        "total": 450.0
+      }
+    ],
+    "subtotal": 450.0,
+    "tax_amount": 27.0,
+    "total_amount": 477.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0053",
+    "filename": "INV-0053.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1195",
+    "vendor_name_on_invoice": "Northwind Valves Supplies 195",
+    "canonical_vendor_name": "Northwind Valves Supplies 195",
+    "invoice_number": "INV-2026-10052",
+    "invoice_date": "2026-07-27",
+    "currency": "USD",
+    "po_reference": "PO-10052",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 50,
+        "unit_price": 22.5,
+        "total": 1125.0
+      },
+      {
+        "line_number": 3,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 100,
+        "unit_price": 0.12,
+        "total": 12.0
+      }
+    ],
+    "subtotal": 1557.0,
+    "tax_amount": 93.42,
+    "total_amount": 1650.42,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0054",
+    "filename": "INV-0054.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1013",
+    "vendor_name_on_invoice": "Northwind Metals Manufacturing 13",
+    "canonical_vendor_name": "Northwind Metals Manufacturing 13",
+    "invoice_number": "INV-2026-10053",
+    "invoice_date": "2026-08-25",
+    "currency": "USD",
+    "po_reference": "PO-10053",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 100,
+        "unit_price": 14.5,
+        "total": 1450.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 20,
+        "unit_price": 0.18,
+        "total": 3.6
+      }
+    ],
+    "subtotal": 1563.6,
+    "tax_amount": 93.82,
+    "total_amount": 1657.42,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0055",
+    "filename": "INV-0055.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1035",
+    "vendor_name_on_invoice": "Northwind Bearings Supplies 35",
+    "canonical_vendor_name": "Northwind Bearings Supplies 35",
+    "invoice_number": "INV-2026-10054",
+    "invoice_date": "2026-07-12",
+    "currency": "USD",
+    "po_reference": "PO-10054",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 200,
+        "unit_price": 38.0,
+        "total": 7600.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 100,
+        "unit_price": 46.0,
+        "total": 4600.0
+      }
+    ],
+    "subtotal": 12202.4,
+    "tax_amount": 732.14,
+    "total_amount": 12934.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0056",
+    "filename": "INV-0056.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1140",
+    "vendor_name_on_invoice": "Northwind Safety Supplies 140",
+    "canonical_vendor_name": "Northwind Safety Supplies 140",
+    "invoice_number": "INV-2026-10055",
+    "invoice_date": "2026-09-09",
+    "currency": "USD",
+    "po_reference": "PO-10055",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 20,
+        "unit_price": 0.22,
+        "total": 4.4
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 500,
+        "unit_price": 14.5,
+        "total": 7250.0
+      },
+      {
+        "line_number": 4,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      }
+    ],
+    "subtotal": 8481.8,
+    "tax_amount": 508.91,
+    "total_amount": 8990.71,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0057",
+    "filename": "INV-0057.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1152",
+    "vendor_name_on_invoice": "Northwind Valves Corp 152",
+    "canonical_vendor_name": "Northwind Valves Corp 152",
+    "invoice_number": "INV-2026-10056",
+    "invoice_date": "2026-09-12",
+    "currency": "USD",
+    "po_reference": "PO-10056",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 500,
+        "unit_price": 22.5,
+        "total": 11250.0
+      }
+    ],
+    "subtotal": 11250.0,
+    "tax_amount": 675.0,
+    "total_amount": 11925.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0058",
+    "filename": "INV-0058.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1036",
+    "vendor_name_on_invoice": "Northwind Hardware Inc. 36",
+    "canonical_vendor_name": "Northwind Hardware Inc. 36",
+    "invoice_number": "INV-2026-10057",
+    "invoice_date": "2026-08-10",
+    "currency": "USD",
+    "po_reference": "PO-10057",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 200,
+        "unit_price": 0.45,
+        "total": 90.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 20,
+        "unit_price": 3.2,
+        "total": 64.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 20,
+        "unit_price": 14.5,
+        "total": 290.0
+      },
+      {
+        "line_number": 4,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 200,
+        "unit_price": 24.5,
+        "total": 4900.0
+      }
+    ],
+    "subtotal": 5344.0,
+    "tax_amount": 320.64,
+    "total_amount": 5664.64,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0059",
+    "filename": "INV-0059.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1162",
+    "vendor_name_on_invoice": "Northwind Bearings Distributors 162",
+    "canonical_vendor_name": "Northwind Bearings Distributors 162",
+    "invoice_number": "INV-2026-10058",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10058",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 20,
+        "unit_price": 8.75,
+        "total": 175.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 50,
+        "unit_price": 0.45,
+        "total": 22.5
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 500,
+        "unit_price": 3.2,
+        "total": 1600.0
+      }
+    ],
+    "subtotal": 1797.5,
+    "tax_amount": 107.85,
+    "total_amount": 1905.35,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0060",
+    "filename": "INV-0060.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1011",
+    "vendor_name_on_invoice": "Montr\u00e9al Industrial Fittings",
+    "canonical_vendor_name": "Montr\u00e9al Industrial Fittings",
+    "invoice_number": "INV-2026-10059",
+    "invoice_date": "2026-08-21",
+    "currency": "CAD",
+    "po_reference": "PO-10059",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 50,
+        "unit_price": 5.14,
+        "total": 257.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 20,
+        "unit_price": 2.1,
+        "total": 42.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 20,
+        "unit_price": 38.0,
+        "total": 760.0
+      }
+    ],
+    "subtotal": 1059.0,
+    "tax_amount": 63.54,
+    "total_amount": 1122.54,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "TOOL-DRL-05",
+      "po_price": 4.5,
+      "invoice_price": 5.14
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0061",
+    "filename": "INV-0061.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1011",
+    "vendor_name_on_invoice": "Montr\u00e9al Industrial Fittings",
+    "canonical_vendor_name": "Montr\u00e9al Industrial Fittings",
+    "invoice_number": "INV-2026-10060",
+    "invoice_date": "2026-07-31",
+    "currency": "CAD",
+    "po_reference": "PO-10060",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 100,
+        "unit_price": 18.0,
+        "total": 1800.0
+      }
+    ],
+    "subtotal": 1800.0,
+    "tax_amount": 108.0,
+    "total_amount": 1908.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0062",
+    "filename": "INV-0062.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1121",
+    "vendor_name_on_invoice": "Northwind Pumps Supplies 121",
+    "canonical_vendor_name": "Northwind Pumps Supplies 121",
+    "invoice_number": "INV-2026-10061",
+    "invoice_date": "2026-08-05",
+    "currency": "USD",
+    "po_reference": "PO-10061",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 100,
+        "unit_price": 32.0,
+        "total": 3200.0
+      }
+    ],
+    "subtotal": 3200.0,
+    "tax_amount": 192.0,
+    "total_amount": 3392.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0063",
+    "filename": "INV-0063.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1221",
+    "vendor_name_on_invoice": "Northwind Tooling Inc. 221",
+    "canonical_vendor_name": "Northwind Tooling Inc. 221",
+    "invoice_number": "INV-2026-10062",
+    "invoice_date": "2026-08-17",
+    "currency": "USD",
+    "po_reference": "PO-10062",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 200,
+        "unit_price": 0.22,
+        "total": 44.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 200,
+        "unit_price": 3.2,
+        "total": 640.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 50,
+        "unit_price": 28.0,
+        "total": 1400.0
+      }
+    ],
+    "subtotal": 2084.0,
+    "tax_amount": 125.04,
+    "total_amount": 2209.04,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0064",
+    "filename": "INV-0064.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1127",
+    "vendor_name_on_invoice": "Northwind Safety Supplies 127",
+    "canonical_vendor_name": "Northwind Safety Supplies 127",
+    "invoice_number": "INV-2026-10063",
+    "invoice_date": "2026-08-20",
+    "currency": "USD",
+    "po_reference": "PO-10063",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 500,
+        "unit_price": 28.0,
+        "total": 14000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 100,
+        "unit_price": 46.0,
+        "total": 4600.0
+      }
+    ],
+    "subtotal": 18636.0,
+    "tax_amount": 1118.16,
+    "total_amount": 19754.16,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0065",
+    "filename": "INV-0065.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1083",
+    "vendor_name_on_invoice": "Northwind Pumps LLC 83",
+    "canonical_vendor_name": "Northwind Pumps LLC 83",
+    "invoice_number": "INV-2026-10064",
+    "invoice_date": "2026-08-14",
+    "currency": "USD",
+    "po_reference": "PO-10064",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 200,
+        "unit_price": 28.0,
+        "total": 5600.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 100,
+        "unit_price": 4.5,
+        "total": 450.0
+      }
+    ],
+    "subtotal": 6470.0,
+    "tax_amount": 388.2,
+    "total_amount": 6858.2,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0066",
+    "filename": "INV-0066.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1163",
+    "vendor_name_on_invoice": "Northwind Electrical Corp 163",
+    "canonical_vendor_name": "Northwind Electrical Corp 163",
+    "invoice_number": "INV-2026-10065",
+    "invoice_date": "2026-07-12",
+    "currency": "USD",
+    "po_reference": "PO-10065",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      }
+    ],
+    "subtotal": 550.0,
+    "tax_amount": 33.0,
+    "total_amount": 583.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0067",
+    "filename": "INV-0067.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1036",
+    "vendor_name_on_invoice": "Northwind Hardware Inc. 36",
+    "canonical_vendor_name": "Northwind Hardware Inc. 36",
+    "invoice_number": "INV-2026-10066",
+    "invoice_date": "2026-09-02",
+    "currency": "USD",
+    "po_reference": "PO-10066",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.14,
+        "total": 2.8
+      }
+    ],
+    "subtotal": 2.8,
+    "tax_amount": 0.17,
+    "total_amount": 2.97,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "WSH-M8-FLT",
+      "po_price": 0.12,
+      "invoice_price": 0.14
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0068",
+    "filename": "INV-0068.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1093",
+    "vendor_name_on_invoice": "Northwind Packaging Inc. 93",
+    "canonical_vendor_name": "Northwind Packaging Inc. 93",
+    "invoice_number": "INV-2026-10067",
+    "invoice_date": "2026-08-23",
+    "currency": "USD",
+    "po_reference": "PO-10067",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 100,
+        "unit_price": 0.85,
+        "total": 85.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 500,
+        "unit_price": 2.1,
+        "total": 1050.0
+      },
+      {
+        "line_number": 4,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 200,
+        "unit_price": 4.5,
+        "total": 900.0
+      }
+    ],
+    "subtotal": 2037.4,
+    "tax_amount": 122.24,
+    "total_amount": 2159.64,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0069",
+    "filename": "INV-0069.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1071",
+    "vendor_name_on_invoice": "Northwind Pumps Manufacturing 71",
+    "canonical_vendor_name": "Northwind Pumps Manufacturing 71",
+    "invoice_number": "INV-2026-10068",
+    "invoice_date": "2026-08-04",
+    "currency": "USD",
+    "po_reference": "PO-10068",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 50,
+        "unit_price": 0.45,
+        "total": 22.5
+      }
+    ],
+    "subtotal": 22.5,
+    "tax_amount": 1.35,
+    "total_amount": 23.85,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0070",
+    "filename": "INV-0070.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1099",
+    "vendor_name_on_invoice": "Northwind Bearings Manufacturing 99",
+    "canonical_vendor_name": "Northwind Bearings Manufacturing 99",
+    "invoice_number": "INV-2026-10069",
+    "invoice_date": "2026-09-13",
+    "currency": "USD",
+    "po_reference": "PO-10069",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      }
+    ],
+    "subtotal": 875.0,
+    "tax_amount": 52.5,
+    "total_amount": 927.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0071",
+    "filename": "INV-0071.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1156",
+    "vendor_name_on_invoice": "Northwind Fasteners Industries 156",
+    "canonical_vendor_name": "Northwind Fasteners Industries 156",
+    "invoice_number": "INV-2026-10070",
+    "invoice_date": "2026-08-10",
+    "currency": "USD",
+    "po_reference": "PO-10070",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 20,
+        "unit_price": 32.0,
+        "total": 640.0
+      },
+      {
+        "line_number": 2,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 50,
+        "unit_price": 0.22,
+        "total": 11.0
+      },
+      {
+        "line_number": 3,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 4,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      }
+    ],
+    "subtotal": 3453.4,
+    "tax_amount": 207.2,
+    "total_amount": 3660.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0072",
+    "filename": "INV-0072.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1138",
+    "vendor_name_on_invoice": "Northwind Hardware Corp 138",
+    "canonical_vendor_name": "Northwind Hardware Corp 138",
+    "invoice_number": "INV-2026-10071",
+    "invoice_date": "2026-08-14",
+    "currency": "USD",
+    "po_reference": "PO-10071",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 500,
+        "unit_price": 4.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 20,
+        "unit_price": 46.0,
+        "total": 920.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 50,
+        "unit_price": 3.2,
+        "total": 160.0
+      }
+    ],
+    "subtotal": 3330.0,
+    "tax_amount": 199.8,
+    "total_amount": 3529.8,
+    "problem_type": "QTY_MISMATCH",
+    "problem_details": {
+      "sku": "TOOL-DRL-05",
+      "billed_qty": 500,
+      "received_qty": 292
+    },
+    "expected_match_outcome": "QTY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_QTY_MISMATCH"
+  },
+  {
+    "invoice_id": "INV-0073",
+    "filename": "INV-0073.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1006",
+    "vendor_name_on_invoice": "Superior Bearing & Seal Inc.",
+    "canonical_vendor_name": "Superior Bearing & Seal Inc.",
+    "invoice_number": "INV-2026-10072",
+    "invoice_date": "2026-08-23",
+    "currency": "USD",
+    "po_reference": "PO-10072",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 20,
+        "unit_price": 2.39,
+        "total": 47.8
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 200,
+        "unit_price": 0.12,
+        "total": 24.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 500,
+        "unit_price": 0.18,
+        "total": 90.0
+      }
+    ],
+    "subtotal": 161.8,
+    "tax_amount": 9.71,
+    "total_amount": 171.51,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "PNEU-FTG-08",
+      "po_price": 2.1,
+      "invoice_price": 2.39
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0074",
+    "filename": "INV-0074.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1210",
+    "vendor_name_on_invoice": "Northwind Packaging Industries 210",
+    "canonical_vendor_name": "Northwind Packaging Industries 210",
+    "invoice_number": "INV-2026-10073",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "po_reference": "PO-10073",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 100,
+        "unit_price": 0.12,
+        "total": 12.0
+      }
+    ],
+    "subtotal": 12.0,
+    "tax_amount": 0.72,
+    "total_amount": 12.72,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0075",
+    "filename": "INV-0075.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1119",
+    "vendor_name_on_invoice": "Northwind Packaging LLC 119",
+    "canonical_vendor_name": "Northwind Packaging LLC 119",
+    "invoice_number": "INV-2026-10074",
+    "invoice_date": "2026-09-11",
+    "currency": "USD",
+    "po_reference": "PO-10074",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 200,
+        "unit_price": 0.12,
+        "total": 24.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 20,
+        "unit_price": 4.5,
+        "total": 90.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 100,
+        "unit_price": 46.0,
+        "total": 4600.0
+      }
+    ],
+    "subtotal": 4714.0,
+    "tax_amount": 282.84,
+    "total_amount": 4996.84,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0076",
+    "filename": "INV-0076.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1082",
+    "vendor_name_on_invoice": "Northwind Bearings Industries 82",
+    "canonical_vendor_name": "Northwind Bearings Industries 82",
+    "invoice_number": "INV-2026-10075",
+    "invoice_date": "2026-08-04",
+    "currency": "USD",
+    "po_reference": "PO-10075",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 100,
+        "unit_price": 22.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 500,
+        "unit_price": 24.5,
+        "total": 12250.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 50,
+        "unit_price": 0.18,
+        "total": 9.0
+      }
+    ],
+    "subtotal": 14509.0,
+    "tax_amount": 870.54,
+    "total_amount": 15379.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0077",
+    "filename": "INV-0077.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1136",
+    "vendor_name_on_invoice": "Northwind Hardware LLC 136",
+    "canonical_vendor_name": "Northwind Hardware LLC 136",
+    "invoice_number": "INV-2026-10076",
+    "invoice_date": "2026-07-15",
+    "currency": "USD",
+    "po_reference": "PO-10076",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 500,
+        "unit_price": 0.12,
+        "total": 60.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 500,
+        "unit_price": 4.5,
+        "total": 2250.0
+      }
+    ],
+    "subtotal": 2310.0,
+    "tax_amount": 138.6,
+    "total_amount": 2448.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0078",
+    "filename": "INV-0078.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1020",
+    "vendor_name_on_invoice": "Northwind Safety Corp 20",
+    "canonical_vendor_name": "Northwind Safety Corp 20",
+    "invoice_number": "INV-2026-10077",
+    "invoice_date": "2026-07-11",
+    "currency": "USD",
+    "po_reference": "PO-10077",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 200,
+        "unit_price": 32.0,
+        "total": 6400.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 100,
+        "unit_price": 28.0,
+        "total": 2800.0
+      },
+      {
+        "line_number": 3,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 50,
+        "unit_price": 0.45,
+        "total": 22.5
+      }
+    ],
+    "subtotal": 9222.5,
+    "tax_amount": 553.35,
+    "total_amount": 9775.85,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0079",
+    "filename": "INV-0079.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1116",
+    "vendor_name_on_invoice": "Northwind Electrical Supplies 116",
+    "canonical_vendor_name": "Northwind Electrical Supplies 116",
+    "invoice_number": "INV-2026-10078",
+    "invoice_date": "2026-07-15",
+    "currency": "USD",
+    "po_reference": "PO-10078",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 200,
+        "unit_price": 4.5,
+        "total": 900.0
+      }
+    ],
+    "subtotal": 900.0,
+    "tax_amount": 54.0,
+    "total_amount": 954.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0080",
+    "filename": "INV-0080.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1118",
+    "vendor_name_on_invoice": "Northwind Bearings Industries 118",
+    "canonical_vendor_name": "Northwind Bearings Industries 118",
+    "invoice_number": "INV-2026-10079",
+    "invoice_date": "2026-07-31",
+    "currency": "USD",
+    "po_reference": "PO-10079",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 100,
+        "unit_price": 0.12,
+        "total": 12.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 50,
+        "unit_price": 18.0,
+        "total": 900.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 500,
+        "unit_price": 22.5,
+        "total": 11250.0
+      }
+    ],
+    "subtotal": 12162.0,
+    "tax_amount": 729.72,
+    "total_amount": 12891.72,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0081",
+    "filename": "INV-0081.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1061",
+    "vendor_name_on_invoice": "Northwind Electrical Supplies 61",
+    "canonical_vendor_name": "Northwind Electrical Supplies 61",
+    "invoice_number": "INV-2026-10080",
+    "invoice_date": "2026-09-03",
+    "currency": "USD",
+    "po_reference": "PO-10080",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 200,
+        "unit_price": 8.75,
+        "total": 1750.0
+      }
+    ],
+    "subtotal": 1750.0,
+    "tax_amount": 105.0,
+    "total_amount": 1855.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0082",
+    "filename": "INV-0082.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1024",
+    "vendor_name_on_invoice": "Northwind Fasteners Corp 24",
+    "canonical_vendor_name": "Northwind Fasteners Corp 24",
+    "invoice_number": "INV-2026-10081",
+    "invoice_date": "2026-07-14",
+    "currency": "USD",
+    "po_reference": "PO-10081",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 50,
+        "unit_price": 5.5,
+        "total": 275.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 500,
+        "unit_price": 28.0,
+        "total": 14000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 50,
+        "unit_price": 14.5,
+        "total": 725.0
+      }
+    ],
+    "subtotal": 15000.0,
+    "tax_amount": 900.0,
+    "total_amount": 15900.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0083",
+    "filename": "INV-0083.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1131",
+    "vendor_name_on_invoice": "Northwind Valves Manufacturing 131",
+    "canonical_vendor_name": "Northwind Valves Manufacturing 131",
+    "invoice_number": "INV-2026-10082",
+    "invoice_date": "2026-09-03",
+    "currency": "USD",
+    "po_reference": null,
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 200,
+        "unit_price": 24.5,
+        "total": 4900.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 50,
+        "unit_price": 38.0,
+        "total": 1900.0
+      },
+      {
+        "line_number": 3,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 500,
+        "unit_price": 0.45,
+        "total": 225.0
+      },
+      {
+        "line_number": 4,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 20,
+        "unit_price": 0.85,
+        "total": 17.0
+      }
+    ],
+    "subtotal": 7042.0,
+    "tax_amount": 422.52,
+    "total_amount": 7464.52,
+    "problem_type": "MISSING_PO",
+    "problem_details": {
+      "reason": "missing_or_unquoted_po_header"
+    },
+    "expected_match_outcome": "NO_PO",
+    "expected_resolution_category": "HUMAN_REVIEW_NO_PO"
+  },
+  {
+    "invoice_id": "INV-0084",
+    "filename": "INV-0084.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1126",
+    "vendor_name_on_invoice": "Northwind Valves Supplies 126",
+    "canonical_vendor_name": "Northwind Valves Supplies 126",
+    "invoice_number": "INV-2026-10083",
+    "invoice_date": "2026-09-06",
+    "currency": "USD",
+    "po_reference": "PO-10083",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 200,
+        "unit_price": 46.0,
+        "total": 9200.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 100,
+        "unit_price": 0.45,
+        "total": 45.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 200,
+        "unit_price": 0.22,
+        "total": 44.0
+      }
+    ],
+    "subtotal": 9289.0,
+    "tax_amount": 557.34,
+    "total_amount": 9846.34,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0085",
+    "filename": "INV-0085.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1102",
+    "vendor_name_on_invoice": "Northwind Packaging Inc. 102",
+    "canonical_vendor_name": "Northwind Packaging Inc. 102",
+    "invoice_number": "INV-2026-10084",
+    "invoice_date": "2026-07-12",
+    "currency": "USD",
+    "po_reference": "PO-10084",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 20,
+        "unit_price": 3.2,
+        "total": 64.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 500,
+        "unit_price": 24.5,
+        "total": 12250.0
+      }
+    ],
+    "subtotal": 12314.0,
+    "tax_amount": 738.84,
+    "total_amount": 13052.84,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0086",
+    "filename": "INV-0086.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1071",
+    "vendor_name_on_invoice": "Northwind Pumps Manufacturing 71",
+    "canonical_vendor_name": "Northwind Pumps Manufacturing 71",
+    "invoice_number": "INV-2026-10085",
+    "invoice_date": "2026-07-22",
+    "currency": "USD",
+    "po_reference": "PO-10085",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 100,
+        "unit_price": 0.22,
+        "total": 22.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      }
+    ],
+    "subtotal": 2772.0,
+    "tax_amount": 166.32,
+    "total_amount": 2938.32,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0087",
+    "filename": "INV-0087.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1050",
+    "vendor_name_on_invoice": "Northwind Packaging Industries 50",
+    "canonical_vendor_name": "Northwind Packaging Industries 50",
+    "invoice_number": "INV-2026-10086",
+    "invoice_date": "2026-09-11",
+    "currency": "USD",
+    "po_reference": "PO-10086",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 50,
+        "unit_price": 22.5,
+        "total": 1125.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 200,
+        "unit_price": 0.85,
+        "total": 170.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      },
+      {
+        "line_number": 4,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 100,
+        "unit_price": 0.45,
+        "total": 45.0
+      }
+    ],
+    "subtotal": 3640.0,
+    "tax_amount": 218.4,
+    "total_amount": 3858.4,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0088",
+    "filename": "INV-0088.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1100",
+    "vendor_name_on_invoice": "Northwind Metals Supplies 100",
+    "canonical_vendor_name": "Northwind Metals Supplies 100",
+    "invoice_number": "INV-2026-10087",
+    "invoice_date": "2026-08-12",
+    "currency": "USD",
+    "po_reference": "PO-10087",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 500,
+        "unit_price": 22.5,
+        "total": 11250.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 200,
+        "unit_price": 46.0,
+        "total": 9200.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 100,
+        "unit_price": 38.0,
+        "total": 3800.0
+      }
+    ],
+    "subtotal": 24250.0,
+    "tax_amount": 1455.0,
+    "total_amount": 25705.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0089",
+    "filename": "INV-0089.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1028",
+    "vendor_name_on_invoice": "Northwind Fasteners Industries 28",
+    "canonical_vendor_name": "Northwind Fasteners Industries 28",
+    "invoice_number": "INV-2026-10088",
+    "invoice_date": "2026-08-26",
+    "currency": "USD",
+    "po_reference": "PO-10088",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 500,
+        "unit_price": 0.45,
+        "total": 225.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 20,
+        "unit_price": 38.0,
+        "total": 760.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 50,
+        "unit_price": 8.75,
+        "total": 437.5
+      }
+    ],
+    "subtotal": 1422.5,
+    "tax_amount": 85.35,
+    "total_amount": 1507.85,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0090",
+    "filename": "INV-0090.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1210",
+    "vendor_name_on_invoice": "Northwind Packaging Industries 210",
+    "canonical_vendor_name": "Northwind Packaging Industries 210",
+    "invoice_number": "INV-2026-10089",
+    "invoice_date": "2026-08-05",
+    "currency": "USD",
+    "po_reference": "PO-10089",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 50,
+        "unit_price": 0.22,
+        "total": 11.0
+      }
+    ],
+    "subtotal": 11.0,
+    "tax_amount": 0.66,
+    "total_amount": 11.66,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0091",
+    "filename": "INV-0091.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1080",
+    "vendor_name_on_invoice": "Northwind Hardware LLC 80",
+    "canonical_vendor_name": "Northwind Hardware LLC 80",
+    "invoice_number": "INV-2026-10090",
+    "invoice_date": "2026-08-30",
+    "currency": "USD",
+    "po_reference": "PO-10090",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 200,
+        "unit_price": 28.0,
+        "total": 5600.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 20,
+        "unit_price": 32.0,
+        "total": 640.0
+      }
+    ],
+    "subtotal": 6240.0,
+    "tax_amount": 374.4,
+    "total_amount": 6614.4,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0092",
+    "filename": "INV-0092.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1053",
+    "vendor_name_on_invoice": "Northwind Pumps Supplies 53",
+    "canonical_vendor_name": "Northwind Pumps Supplies 53",
+    "invoice_number": "INV-2026-10091",
+    "invoice_date": "2026-09-14",
+    "currency": "USD",
+    "po_reference": "PO-10091",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 100,
+        "unit_price": 38.0,
+        "total": 3800.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 200,
+        "unit_price": 22.5,
+        "total": 4500.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      }
+    ],
+    "subtotal": 11050.0,
+    "tax_amount": 663.0,
+    "total_amount": 11713.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0093",
+    "filename": "INV-0093.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1197",
+    "vendor_name_on_invoice": "Northwind Hardware Manufacturing 197",
+    "canonical_vendor_name": "Northwind Hardware Manufacturing 197",
+    "invoice_number": "INV-2026-10092",
+    "invoice_date": "2026-08-08",
+    "currency": "USD",
+    "po_reference": "PO-10092",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 100,
+        "unit_price": 32.0,
+        "total": 3200.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 100,
+        "unit_price": 14.5,
+        "total": 1450.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 50,
+        "unit_price": 8.75,
+        "total": 437.5
+      },
+      {
+        "line_number": 4,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 100,
+        "unit_price": 38.0,
+        "total": 3800.0
+      }
+    ],
+    "subtotal": 8887.5,
+    "tax_amount": 533.25,
+    "total_amount": 9420.75,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0094",
+    "filename": "INV-0094.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1143",
+    "vendor_name_on_invoice": "Northwind Pumps Manufacturing 143",
+    "canonical_vendor_name": "Northwind Pumps Manufacturing 143",
+    "invoice_number": "INV-2026-10093",
+    "invoice_date": "2026-08-09",
+    "currency": "USD",
+    "po_reference": "PO-10093",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 100,
+        "unit_price": 0.22,
+        "total": 22.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 100,
+        "unit_price": 22.5,
+        "total": 2250.0
+      }
+    ],
+    "subtotal": 2822.0,
+    "tax_amount": 169.32,
+    "total_amount": 2991.32,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0095",
+    "filename": "INV-0095.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1236",
+    "vendor_name_on_invoice": "Northwind Tooling LLC 236",
+    "canonical_vendor_name": "Northwind Tooling LLC 236",
+    "invoice_number": "INV-2026-10094",
+    "invoice_date": "2026-08-30",
+    "currency": "USD",
+    "po_reference": "PO-10094",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 500,
+        "unit_price": 38.0,
+        "total": 19000.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 500,
+        "unit_price": 32.0,
+        "total": 16000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 50,
+        "unit_price": 22.5,
+        "total": 1125.0
+      }
+    ],
+    "subtotal": 36125.0,
+    "tax_amount": 2167.5,
+    "total_amount": 38292.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0096",
+    "filename": "INV-0096.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1189",
+    "vendor_name_on_invoice": "Northwind Electrical Inc. 189",
+    "canonical_vendor_name": "Northwind Electrical Inc. 189",
+    "invoice_number": "INV-2026-10095",
+    "invoice_date": "2026-09-19",
+    "currency": "CAD",
+    "po_reference": "PO-10095",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 500,
+        "unit_price": 14.5,
+        "total": 7250.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 50,
+        "unit_price": 0.85,
+        "total": 42.5
+      }
+    ],
+    "subtotal": 7292.5,
+    "tax_amount": 437.55,
+    "total_amount": 7730.05,
+    "problem_type": "CURRENCY_MISMATCH",
+    "problem_details": {
+      "invoice_currency": "CAD",
+      "po_currency": "USD"
+    },
+    "expected_match_outcome": "CURRENCY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_CURRENCY"
+  },
+  {
+    "invoice_id": "INV-0097",
+    "filename": "INV-0097.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1105",
+    "vendor_name_on_invoice": "Northwind Hardware Supplies 105",
+    "canonical_vendor_name": "Northwind Hardware Supplies 105",
+    "invoice_number": "INV-2026-10096",
+    "invoice_date": "2026-08-16",
+    "currency": "USD",
+    "po_reference": "PO-10096",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 50,
+        "unit_price": 0.22,
+        "total": 11.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 200,
+        "unit_price": 0.12,
+        "total": 24.0
+      },
+      {
+        "line_number": 3,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 50,
+        "unit_price": 0.45,
+        "total": 22.5
+      },
+      {
+        "line_number": 4,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      }
+    ],
+    "subtotal": 932.5,
+    "tax_amount": 55.95,
+    "total_amount": 988.45,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0098",
+    "filename": "INV-0098.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1015",
+    "vendor_name_on_invoice": "Northwind Hardware Inc. 15",
+    "canonical_vendor_name": "Northwind Hardware Inc. 15",
+    "invoice_number": "INV-2026-10097",
+    "invoice_date": "2026-07-19",
+    "currency": "USD",
+    "po_reference": "PO-10097",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 50,
+        "unit_price": 0.85,
+        "total": 42.5
+      }
+    ],
+    "subtotal": 2342.5,
+    "tax_amount": 140.55,
+    "total_amount": 2483.05,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0099",
+    "filename": "INV-0099.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1201",
+    "vendor_name_on_invoice": "Northwind Valves Corp 201",
+    "canonical_vendor_name": "Northwind Valves Corp 201",
+    "invoice_number": "INV-2026-10098",
+    "invoice_date": "2026-09-05",
+    "currency": "USD",
+    "po_reference": "PO-10098",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 20,
+        "unit_price": 24.5,
+        "total": 490.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 500,
+        "unit_price": 0.85,
+        "total": 425.0
+      }
+    ],
+    "subtotal": 915.0,
+    "tax_amount": 54.9,
+    "total_amount": 969.9,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0100",
+    "filename": "INV-0100.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1072",
+    "vendor_name_on_invoice": "Northwind Packaging Inc. 72",
+    "canonical_vendor_name": "Northwind Packaging Inc. 72",
+    "invoice_number": "INV-2026-10099",
+    "invoice_date": "2026-08-31",
+    "currency": "USD",
+    "po_reference": "PO-10099",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 50,
+        "unit_price": 0.12,
+        "total": 6.0
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 100,
+        "unit_price": 22.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      },
+      {
+        "line_number": 4,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      }
+    ],
+    "subtotal": 4976.0,
+    "tax_amount": 298.56,
+    "total_amount": 5274.56,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0101",
+    "filename": "INV-0101.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1086",
+    "vendor_name_on_invoice": "Northwind Pumps LLC 86",
+    "canonical_vendor_name": "Northwind Pumps LLC 86",
+    "invoice_number": "INV-2026-10100",
+    "invoice_date": "2026-08-14",
+    "currency": "USD",
+    "po_reference": "PO-10100",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 200,
+        "unit_price": 4.5,
+        "total": 900.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      }
+    ],
+    "subtotal": 1010.0,
+    "tax_amount": 60.6,
+    "total_amount": 1070.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0102",
+    "filename": "INV-0102.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1024",
+    "vendor_name_on_invoice": "Northwind Fasteners Corp 24",
+    "canonical_vendor_name": "Northwind Fasteners Corp 24",
+    "invoice_number": "INV-2026-10101",
+    "invoice_date": "2026-07-28",
+    "currency": "USD",
+    "po_reference": "PO-10101",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 50,
+        "unit_price": 38.0,
+        "total": 1900.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 100,
+        "unit_price": 18.0,
+        "total": 1800.0
+      }
+    ],
+    "subtotal": 3700.0,
+    "tax_amount": 222.0,
+    "total_amount": 3922.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0103",
+    "filename": "INV-0103.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1114",
+    "vendor_name_on_invoice": "Northwind Bearings LLC 114",
+    "canonical_vendor_name": "Northwind Bearings LLC 114",
+    "invoice_number": "INV-2026-10102",
+    "invoice_date": "2026-08-07",
+    "currency": "USD",
+    "po_reference": "PO-10102",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 100,
+        "unit_price": 24.5,
+        "total": 2450.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 200,
+        "unit_price": 8.75,
+        "total": 1750.0
+      }
+    ],
+    "subtotal": 4209.0,
+    "tax_amount": 252.54,
+    "total_amount": 4461.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0104",
+    "filename": "INV-0104.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1103",
+    "vendor_name_on_invoice": "Northwind Valves Inc. 103",
+    "canonical_vendor_name": "Northwind Valves Inc. 103",
+    "invoice_number": "INV-2026-10103",
+    "invoice_date": "2026-09-08",
+    "currency": "USD",
+    "po_reference": "PO-10103",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 500,
+        "unit_price": 0.22,
+        "total": 110.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 200,
+        "unit_price": 3.2,
+        "total": 640.0
+      }
+    ],
+    "subtotal": 1975.0,
+    "tax_amount": 118.5,
+    "total_amount": 2093.5,
+    "problem_type": "QTY_MISMATCH",
+    "problem_details": {
+      "sku": "NUT-M10-HEX",
+      "billed_qty": 500,
+      "received_qty": 311
+    },
+    "expected_match_outcome": "QTY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_QTY_MISMATCH"
+  },
+  {
+    "invoice_id": "INV-0105",
+    "filename": "INV-0105.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1191",
+    "vendor_name_on_invoice": "Northwind Fasteners Industries 191",
+    "canonical_vendor_name": "Northwind Fasteners Industries 191",
+    "invoice_number": "INV-2026-10104",
+    "invoice_date": "2026-08-21",
+    "currency": "USD",
+    "po_reference": "PO-10104",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 500,
+        "unit_price": 38.0,
+        "total": 19000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 500,
+        "unit_price": 35.64,
+        "total": 17820.0
+      },
+      {
+        "line_number": 4,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      }
+    ],
+    "subtotal": 39230.0,
+    "tax_amount": 2353.8,
+    "total_amount": 41583.8,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "TOOL-END-12",
+      "po_price": 32.0,
+      "invoice_price": 35.64
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0106",
+    "filename": "INV-0106.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1212",
+    "vendor_name_on_invoice": "Northwind Metals Industries 212",
+    "canonical_vendor_name": "Northwind Metals Industries 212",
+    "invoice_number": "INV-2026-10105",
+    "invoice_date": "2026-09-14",
+    "currency": "USD",
+    "po_reference": "PO-10105",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 500,
+        "unit_price": 0.12,
+        "total": 60.0
+      }
+    ],
+    "subtotal": 2360.0,
+    "tax_amount": 141.6,
+    "total_amount": 2501.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0107",
+    "filename": "INV-0107.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1174",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 174",
+    "canonical_vendor_name": "Northwind Pumps Corp 174",
+    "invoice_number": "INV-2026-10106",
+    "invoice_date": "2026-08-01",
+    "currency": "USD",
+    "po_reference": "PO-10106",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 20,
+        "unit_price": 0.18,
+        "total": 3.6
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 50,
+        "unit_price": 22.5,
+        "total": 1125.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      },
+      {
+        "line_number": 4,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      }
+    ],
+    "subtotal": 4298.6,
+    "tax_amount": 257.92,
+    "total_amount": 4556.52,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0108",
+    "filename": "INV-0108.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1206",
+    "vendor_name_on_invoice": "Northwind Safety LLC 206",
+    "canonical_vendor_name": "Northwind Safety LLC 206",
+    "invoice_number": "INV-2026-10107",
+    "invoice_date": "2026-08-15",
+    "currency": "USD",
+    "po_reference": "PO-10107",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      }
+    ],
+    "subtotal": 550.0,
+    "tax_amount": 33.0,
+    "total_amount": 583.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0109",
+    "filename": "INV-0109.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1055",
+    "vendor_name_on_invoice": "Northwind Bearings Inc. 55",
+    "canonical_vendor_name": "Northwind Bearings Inc. 55",
+    "invoice_number": "INV-2026-10108",
+    "invoice_date": "2026-09-20",
+    "currency": "USD",
+    "po_reference": "PO-10108",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 200,
+        "unit_price": 0.85,
+        "total": 170.0
+      }
+    ],
+    "subtotal": 170.0,
+    "tax_amount": 10.2,
+    "total_amount": 180.2,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0110",
+    "filename": "INV-0110.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1016",
+    "vendor_name_on_invoice": "Northwind Pumps Inc. 16",
+    "canonical_vendor_name": "Northwind Pumps Inc. 16",
+    "invoice_number": "INV-2026-10109",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "po_reference": "PO-10109",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      }
+    ],
+    "subtotal": 36.0,
+    "tax_amount": 2.16,
+    "total_amount": 38.16,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0111",
+    "filename": "INV-0111.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1104",
+    "vendor_name_on_invoice": "Northwind Electrical LLC 104",
+    "canonical_vendor_name": "Northwind Electrical LLC 104",
+    "invoice_number": "INV-2026-10110",
+    "invoice_date": "2026-07-29",
+    "currency": "USD",
+    "po_reference": "PO-10110",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 200,
+        "unit_price": 28.0,
+        "total": 5600.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 200,
+        "unit_price": 3.2,
+        "total": 640.0
+      }
+    ],
+    "subtotal": 6240.0,
+    "tax_amount": 374.4,
+    "total_amount": 6614.4,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0112",
+    "filename": "INV-0112.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1174",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 174",
+    "canonical_vendor_name": "Northwind Pumps Corp 174",
+    "invoice_number": "INV-2026-10111",
+    "invoice_date": "2026-09-12",
+    "currency": "USD",
+    "po_reference": "PO-10111",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 50,
+        "unit_price": 3.2,
+        "total": 160.0
+      },
+      {
+        "line_number": 2,
+        "sku": "NUT-M10-HEX",
+        "description": "Standard Hex Nut M10 Class 8",
+        "quantity": 500,
+        "unit_price": 0.22,
+        "total": 110.0
+      }
+    ],
+    "subtotal": 270.0,
+    "tax_amount": 16.2,
+    "total_amount": 286.2,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0113",
+    "filename": "INV-0113.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1057",
+    "vendor_name_on_invoice": "Northwind Fasteners Industries 57",
+    "canonical_vendor_name": "Northwind Fasteners Industries 57",
+    "invoice_number": "INV-2026-10112",
+    "invoice_date": "2026-07-06",
+    "currency": "USD",
+    "po_reference": "PO-10112",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 200,
+        "unit_price": 24.5,
+        "total": 4900.0
+      }
+    ],
+    "subtotal": 4900.0,
+    "tax_amount": 294.0,
+    "total_amount": 5194.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0114",
+    "filename": "INV-0114.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1097",
+    "vendor_name_on_invoice": "Northwind Tooling LLC 97",
+    "canonical_vendor_name": "Northwind Tooling LLC 97",
+    "invoice_number": "INV-2026-10113",
+    "invoice_date": "2026-08-05",
+    "currency": "USD",
+    "po_reference": "PO-10113",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 50,
+        "unit_price": 2.1,
+        "total": 105.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 50,
+        "unit_price": 3.2,
+        "total": 160.0
+      }
+    ],
+    "subtotal": 265.0,
+    "tax_amount": 15.9,
+    "total_amount": 280.9,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0115",
+    "filename": "INV-0115.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1207",
+    "vendor_name_on_invoice": "Northwind Valves Corp 207",
+    "canonical_vendor_name": "Northwind Valves Corp 207",
+    "invoice_number": "INV-2026-10114",
+    "invoice_date": "2026-08-27",
+    "currency": "USD",
+    "po_reference": "PO-10114",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 50,
+        "unit_price": 14.5,
+        "total": 725.0
+      }
+    ],
+    "subtotal": 725.0,
+    "tax_amount": 43.5,
+    "total_amount": 768.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0116",
+    "filename": "INV-0116.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1152",
+    "vendor_name_on_invoice": "Northwind Valves Corp 152",
+    "canonical_vendor_name": "Northwind Valves Corp 152",
+    "invoice_number": "INV-2026-10115",
+    "invoice_date": "2026-07-08",
+    "currency": "USD",
+    "po_reference": "PO-10115",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 200,
+        "unit_price": 0.85,
+        "total": 170.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 500,
+        "unit_price": 14.5,
+        "total": 7250.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 20,
+        "unit_price": 46.0,
+        "total": 920.0
+      },
+      {
+        "line_number": 4,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 500,
+        "unit_price": 32.0,
+        "total": 16000.0
+      }
+    ],
+    "subtotal": 24340.0,
+    "tax_amount": 1460.4,
+    "total_amount": 25800.4,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0117",
+    "filename": "INV-0117.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1208",
+    "vendor_name_on_invoice": "Northwind Electrical Industries 208",
+    "canonical_vendor_name": "Northwind Electrical Industries 208",
+    "invoice_number": "INV-2026-10116",
+    "invoice_date": "2026-09-18",
+    "currency": "USD",
+    "po_reference": "PO-10116",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 50,
+        "unit_price": 18.0,
+        "total": 900.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 200,
+        "unit_price": 14.5,
+        "total": 2900.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 100,
+        "unit_price": 24.5,
+        "total": 2450.0
+      }
+    ],
+    "subtotal": 6250.0,
+    "tax_amount": 375.0,
+    "total_amount": 6625.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0118",
+    "filename": "INV-0118.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1242",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 242",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 242",
+    "invoice_number": "INV-2026-10117",
+    "invoice_date": "2026-09-17",
+    "currency": "USD",
+    "po_reference": "PO-10117",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 20,
+        "unit_price": 28.0,
+        "total": 560.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 200,
+        "unit_price": 38.0,
+        "total": 7600.0
+      }
+    ],
+    "subtotal": 8160.0,
+    "tax_amount": 489.6,
+    "total_amount": 8649.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0119",
+    "filename": "INV-0119.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1106",
+    "vendor_name_on_invoice": "Northwind Packaging LLC 106",
+    "canonical_vendor_name": "Northwind Packaging LLC 106",
+    "invoice_number": "INV-2026-10118",
+    "invoice_date": "2026-08-28",
+    "currency": "USD",
+    "po_reference": "PO-10118",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 50,
+        "unit_price": 5.5,
+        "total": 275.0
+      }
+    ],
+    "subtotal": 1500.0,
+    "tax_amount": 90.0,
+    "total_amount": 1590.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0120",
+    "filename": "INV-0120.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1219",
+    "vendor_name_on_invoice": "Northwind Safety Corp 219",
+    "canonical_vendor_name": "Northwind Safety Corp 219",
+    "invoice_number": "INV-2026-10119",
+    "invoice_date": "2026-07-25",
+    "currency": "USD",
+    "po_reference": "PO-10119",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 500,
+        "unit_price": 0.85,
+        "total": 425.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 200,
+        "unit_price": 28.0,
+        "total": 5600.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 100,
+        "unit_price": 22.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 4,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      }
+    ],
+    "subtotal": 9150.0,
+    "tax_amount": 549.0,
+    "total_amount": 9699.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0121",
+    "filename": "INV-0121.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1216",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 216",
+    "canonical_vendor_name": "Northwind Pumps Corp 216",
+    "invoice_number": "INV-2026-10120",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10120",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      }
+    ],
+    "subtotal": 2300.0,
+    "tax_amount": 138.0,
+    "total_amount": 2438.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0122",
+    "filename": "INV-0122.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1096",
+    "vendor_name_on_invoice": "Northwind Safety Inc. 96",
+    "canonical_vendor_name": "Northwind Safety Inc. 96",
+    "invoice_number": "INV-2026-10121",
+    "invoice_date": "2026-07-10",
+    "currency": "USD",
+    "po_reference": "PO-10121",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 500,
+        "unit_price": 32.0,
+        "total": 16000.0
+      }
+    ],
+    "subtotal": 16000.0,
+    "tax_amount": 960.0,
+    "total_amount": 16960.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0123",
+    "filename": "INV-0123.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1053",
+    "vendor_name_on_invoice": "Northwind Pumps Supplies 53",
+    "canonical_vendor_name": "Northwind Pumps Supplies 53",
+    "invoice_number": "INV-2026-10122",
+    "invoice_date": "2026-08-17",
+    "currency": "USD",
+    "po_reference": "PO-10122",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-END-12",
+        "description": "Carbide End Mill 4-Flute 12mm",
+        "quantity": 50,
+        "unit_price": 32.0,
+        "total": 1600.0
+      },
+      {
+        "line_number": 3,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 200,
+        "unit_price": 22.5,
+        "total": 4500.0
+      }
+    ],
+    "subtotal": 6109.0,
+    "tax_amount": 366.54,
+    "total_amount": 6475.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0124",
+    "filename": "INV-0124.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1082",
+    "vendor_name_on_invoice": "Northwind Bearings Industries 82",
+    "canonical_vendor_name": "Northwind Bearings Industries 82",
+    "invoice_number": "INV-2026-10123",
+    "invoice_date": "2026-08-13",
+    "currency": "USD",
+    "po_reference": "PO-10123",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 200,
+        "unit_price": 3.2,
+        "total": 640.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 200,
+        "unit_price": 24.5,
+        "total": 4900.0
+      },
+      {
+        "line_number": 4,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 50,
+        "unit_price": 0.12,
+        "total": 6.0
+      }
+    ],
+    "subtotal": 5756.0,
+    "tax_amount": 345.36,
+    "total_amount": 6101.36,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0125",
+    "filename": "INV-0125.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1105",
+    "vendor_name_on_invoice": "Northwind Hardware Supplies 105",
+    "canonical_vendor_name": "Northwind Hardware Supplies 105",
+    "invoice_number": "INV-2026-10124",
+    "invoice_date": "2026-07-12",
+    "currency": "USD",
+    "po_reference": "PO-10124",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 100,
+        "unit_price": 0.12,
+        "total": 12.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 100,
+        "unit_price": 0.45,
+        "total": 45.0
+      }
+    ],
+    "subtotal": 57.0,
+    "tax_amount": 3.42,
+    "total_amount": 60.42,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0126",
+    "filename": "INV-0126.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1084",
+    "vendor_name_on_invoice": "Northwind Hardware LLC 84",
+    "canonical_vendor_name": "Northwind Hardware LLC 84",
+    "invoice_number": "INV-2026-10125",
+    "invoice_date": "2026-08-06",
+    "currency": "USD",
+    "po_reference": "PO-10125",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 200,
+        "unit_price": 14.5,
+        "total": 2900.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 200,
+        "unit_price": 38.0,
+        "total": 7600.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 100,
+        "unit_price": 18.0,
+        "total": 1800.0
+      },
+      {
+        "line_number": 4,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 50,
+        "unit_price": 0.12,
+        "total": 6.0
+      }
+    ],
+    "subtotal": 12306.0,
+    "tax_amount": 738.36,
+    "total_amount": 13044.36,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0127",
+    "filename": "INV-0127.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1234",
+    "vendor_name_on_invoice": "Northwind Electrical Distributors 234",
+    "canonical_vendor_name": "Northwind Electrical Distributors 234",
+    "invoice_number": "INV-2026-10126",
+    "invoice_date": "2026-09-13",
+    "currency": "USD",
+    "po_reference": "PO-10126",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 20,
+        "unit_price": 24.95,
+        "total": 499.0
+      }
+    ],
+    "subtotal": 499.0,
+    "tax_amount": 29.94,
+    "total_amount": 528.94,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "HYD-SEA-045",
+      "po_price": 22.5,
+      "invoice_price": 24.95
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0128",
+    "filename": "INV-0128.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1012",
+    "vendor_name_on_invoice": "Northwind Fasteners Corp 12",
+    "canonical_vendor_name": "Northwind Fasteners Corp 12",
+    "invoice_number": "INV-2026-10127",
+    "invoice_date": "2026-07-07",
+    "currency": "USD",
+    "po_reference": "PO-10127",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 50,
+        "unit_price": 0.12,
+        "total": 6.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-TAP-M8",
+        "description": "Spiral Point Tap M8x1.25",
+        "quantity": 50,
+        "unit_price": 14.5,
+        "total": 725.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 100,
+        "unit_price": 0.18,
+        "total": 18.0
+      },
+      {
+        "line_number": 4,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 500,
+        "unit_price": 3.2,
+        "total": 1600.0
+      }
+    ],
+    "subtotal": 2349.0,
+    "tax_amount": 140.94,
+    "total_amount": 2489.94,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0129",
+    "filename": "INV-0129.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1124",
+    "vendor_name_on_invoice": "Northwind Hardware Distributors 124",
+    "canonical_vendor_name": "Northwind Hardware Distributors 124",
+    "invoice_number": "INV-2026-10128",
+    "invoice_date": "2026-07-08",
+    "currency": "USD",
+    "po_reference": "PO-10128",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 500,
+        "unit_price": 46.0,
+        "total": 23000.0
+      }
+    ],
+    "subtotal": 23000.0,
+    "tax_amount": 1380.0,
+    "total_amount": 24380.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0130",
+    "filename": "INV-0130.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1004",
+    "vendor_name_on_invoice": "Titan Hydraulics Corp.",
+    "canonical_vendor_name": "Titan Hydraulics Corp.",
+    "invoice_number": "INV-2026-10129",
+    "invoice_date": "2026-09-11",
+    "currency": "USD",
+    "po_reference": "PO-10129",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 500,
+        "unit_price": 46.0,
+        "total": 23000.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      },
+      {
+        "line_number": 3,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 20,
+        "unit_price": 0.45,
+        "total": 9.0
+      }
+    ],
+    "subtotal": 24234.0,
+    "tax_amount": 1454.04,
+    "total_amount": 25688.04,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0131",
+    "filename": "INV-0131.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1049",
+    "vendor_name_on_invoice": "Northwind Metals Manufacturing 49",
+    "canonical_vendor_name": "Northwind Metals Manufacturing 49",
+    "invoice_number": "INV-2026-10130",
+    "invoice_date": "2026-09-10",
+    "currency": "USD",
+    "po_reference": null,
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 20,
+        "unit_price": 3.2,
+        "total": 64.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 200,
+        "unit_price": 8.75,
+        "total": 1750.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      }
+    ],
+    "subtotal": 4564.0,
+    "tax_amount": 273.84,
+    "total_amount": 4837.84,
+    "problem_type": "MISSING_PO",
+    "problem_details": {
+      "reason": "missing_or_unquoted_po_header"
+    },
+    "expected_match_outcome": "NO_PO",
+    "expected_resolution_category": "HUMAN_REVIEW_NO_PO"
+  },
+  {
+    "invoice_id": "INV-0132",
+    "filename": "INV-0132.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1057",
+    "vendor_name_on_invoice": "Northwind Fasteners Industries 57",
+    "canonical_vendor_name": "Northwind Fasteners Industries 57",
+    "invoice_number": "INV-2026-10131",
+    "invoice_date": "2026-08-11",
+    "currency": "USD",
+    "po_reference": "PO-10131",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 20,
+        "unit_price": 0.85,
+        "total": 17.0
+      }
+    ],
+    "subtotal": 17.0,
+    "tax_amount": 1.02,
+    "total_amount": 18.02,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0133",
+    "filename": "INV-0133.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1096",
+    "vendor_name_on_invoice": "Northwind Safety Inc. 96",
+    "canonical_vendor_name": "Northwind Safety Inc. 96",
+    "invoice_number": "INV-2026-10132",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "po_reference": "PO-10132",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 200,
+        "unit_price": 0.85,
+        "total": 170.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 100,
+        "unit_price": 0.45,
+        "total": 45.0
+      },
+      {
+        "line_number": 3,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 500,
+        "unit_price": 4.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 4,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      }
+    ],
+    "subtotal": 4765.0,
+    "tax_amount": 285.9,
+    "total_amount": 5050.9,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0134",
+    "filename": "INV-0134.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1227",
+    "vendor_name_on_invoice": "Northwind Safety Distributors 227",
+    "canonical_vendor_name": "Northwind Safety Distributors 227",
+    "invoice_number": "INV-2026-10133",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "po_reference": "PO-10133",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 50,
+        "unit_price": 0.85,
+        "total": 42.5
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 20,
+        "unit_price": 0.18,
+        "total": 3.6
+      },
+      {
+        "line_number": 4,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 500,
+        "unit_price": 18.0,
+        "total": 9000.0
+      }
+    ],
+    "subtotal": 9921.1,
+    "tax_amount": 595.27,
+    "total_amount": 10516.37,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0135",
+    "filename": "INV-0135.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1210",
+    "vendor_name_on_invoice": "Northwind Packaging Industries 210",
+    "canonical_vendor_name": "Northwind Packaging Industries 210",
+    "invoice_number": "INV-2026-10134",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10134",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      }
+    ],
+    "subtotal": 1225.0,
+    "tax_amount": 73.5,
+    "total_amount": 1298.5,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0136",
+    "filename": "INV-0136.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1213",
+    "vendor_name_on_invoice": "Northwind Fasteners Supplies 213",
+    "canonical_vendor_name": "Northwind Fasteners Supplies 213",
+    "invoice_number": "INV-2026-10135",
+    "invoice_date": "2026-08-23",
+    "currency": "USD",
+    "po_reference": "PO-10135",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      },
+      {
+        "line_number": 2,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      }
+    ],
+    "subtotal": 2788.4,
+    "tax_amount": 167.3,
+    "total_amount": 2955.7,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0137",
+    "filename": "INV-0137.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1087",
+    "vendor_name_on_invoice": "Northwind Packaging Corp 87",
+    "canonical_vendor_name": "Northwind Packaging Corp 87",
+    "invoice_number": "INV-2026-10136",
+    "invoice_date": "2026-08-27",
+    "currency": "USD",
+    "po_reference": "PO-10136",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "FST-M8-50",
+        "description": "Hex Bolt M8x50 Grade 8.8 Zinc",
+        "quantity": 200,
+        "unit_price": 0.45,
+        "total": 90.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 200,
+        "unit_price": 2.1,
+        "total": 420.0
+      }
+    ],
+    "subtotal": 1385.0,
+    "tax_amount": 83.1,
+    "total_amount": 1468.1,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0138",
+    "filename": "INV-0138.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1149",
+    "vendor_name_on_invoice": "Northwind Metals Corp 149",
+    "canonical_vendor_name": "Northwind Metals Corp 149",
+    "invoice_number": "INV-2026-10137",
+    "invoice_date": "2026-08-23",
+    "currency": "CAD",
+    "po_reference": "PO-10137",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      }
+    ],
+    "subtotal": 1225.0,
+    "tax_amount": 73.5,
+    "total_amount": 1298.5,
+    "problem_type": "CURRENCY_MISMATCH",
+    "problem_details": {
+      "invoice_currency": "CAD",
+      "po_currency": "USD"
+    },
+    "expected_match_outcome": "CURRENCY_MISMATCH",
+    "expected_resolution_category": "HUMAN_REVIEW_CURRENCY"
+  },
+  {
+    "invoice_id": "INV-0139",
+    "filename": "INV-0139.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1068",
+    "vendor_name_on_invoice": "Northwind Valves Supplies 68",
+    "canonical_vendor_name": "Northwind Valves Supplies 68",
+    "invoice_number": "INV-2026-10138",
+    "invoice_date": "2026-07-27",
+    "currency": "USD",
+    "po_reference": "PO-10138",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      },
+      {
+        "line_number": 3,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 200,
+        "unit_price": 18.0,
+        "total": 3600.0
+      },
+      {
+        "line_number": 4,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 100,
+        "unit_price": 4.5,
+        "total": 450.0
+      }
+    ],
+    "subtotal": 4162.4,
+    "tax_amount": 249.74,
+    "total_amount": 4412.14,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0140",
+    "filename": "INV-0140.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1022",
+    "vendor_name_on_invoice": "Northwind Pumps Corp 22",
+    "canonical_vendor_name": "Northwind Pumps Corp 22",
+    "invoice_number": "INV-2026-10139",
+    "invoice_date": "2026-07-27",
+    "currency": "USD",
+    "po_reference": "PO-10139",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 20,
+        "unit_price": 2.39,
+        "total": 47.8
+      },
+      {
+        "line_number": 2,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 100,
+        "unit_price": 22.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 500,
+        "unit_price": 28.0,
+        "total": 14000.0
+      },
+      {
+        "line_number": 4,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 200,
+        "unit_price": 0.85,
+        "total": 170.0
+      }
+    ],
+    "subtotal": 16467.8,
+    "tax_amount": 988.07,
+    "total_amount": 17455.87,
+    "problem_type": "PRICE_VARIANCE",
+    "problem_details": {
+      "sku": "PNEU-FTG-08",
+      "po_price": 2.1,
+      "invoice_price": 2.39
+    },
+    "expected_match_outcome": "PRICE_VARIANCE",
+    "expected_resolution_category": "HUMAN_REVIEW_PRICE_VARIANCE"
+  },
+  {
+    "invoice_id": "INV-0141",
+    "filename": "INV-0141.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1105",
+    "vendor_name_on_invoice": "Northwind Hardware Supplies 105",
+    "canonical_vendor_name": "Northwind Hardware Supplies 105",
+    "invoice_number": "INV-2026-10140",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10140",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 50,
+        "unit_price": 46.0,
+        "total": 2300.0
+      }
+    ],
+    "subtotal": 2300.0,
+    "tax_amount": 138.0,
+    "total_amount": 2438.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0142",
+    "filename": "INV-0142.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1097",
+    "vendor_name_on_invoice": "Northwind Tooling LLC 97",
+    "canonical_vendor_name": "Northwind Tooling LLC 97",
+    "invoice_number": "INV-2026-10141",
+    "invoice_date": "2026-07-29",
+    "currency": "USD",
+    "po_reference": "PO-10141",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-LUB-400",
+        "description": "Synthetic Industrial Bearing Grease 400g",
+        "quantity": 100,
+        "unit_price": 8.75,
+        "total": 875.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 50,
+        "unit_price": 24.5,
+        "total": 1225.0
+      }
+    ],
+    "subtotal": 2100.0,
+    "tax_amount": 126.0,
+    "total_amount": 2226.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0143",
+    "filename": "INV-0143.pdf",
+    "file_type": "pdf",
+    "template": "standard_grid",
+    "split": "test",
+    "vendor_id": "VEND-1111",
+    "vendor_name_on_invoice": "Northwind Bearings Inc. 111",
+    "canonical_vendor_name": "Northwind Bearings Inc. 111",
+    "invoice_number": "INV-2026-10142",
+    "invoice_date": "2026-08-08",
+    "currency": "USD",
+    "po_reference": "PO-10142",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-DEG-05L",
+        "description": "Heavy Duty Citrus Degreaser 5L",
+        "quantity": 100,
+        "unit_price": 24.5,
+        "total": 2450.0
+      },
+      {
+        "line_number": 2,
+        "sku": "PNEU-TUB-50M",
+        "description": "Polyurethane Pneumatic Tubing 8mm 50m",
+        "quantity": 200,
+        "unit_price": 38.0,
+        "total": 7600.0
+      },
+      {
+        "line_number": 3,
+        "sku": "NUT-M8-NYL",
+        "description": "Nylon Insert Lock Nut M8",
+        "quantity": 200,
+        "unit_price": 0.18,
+        "total": 36.0
+      },
+      {
+        "line_number": 4,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 50,
+        "unit_price": 4.5,
+        "total": 225.0
+      }
+    ],
+    "subtotal": 10311.0,
+    "tax_amount": 618.66,
+    "total_amount": 10929.66,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0144",
+    "filename": "INV-0144.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1242",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 242",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 242",
+    "invoice_number": "INV-2026-10143",
+    "invoice_date": "2026-08-24",
+    "currency": "USD",
+    "po_reference": "PO-10143",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      },
+      {
+        "line_number": 2,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 500,
+        "unit_price": 18.0,
+        "total": 9000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "PNEU-FTG-08",
+        "description": "Push-in Pneumatic Fitting 8mm Tube",
+        "quantity": 100,
+        "unit_price": 2.1,
+        "total": 210.0
+      }
+    ],
+    "subtotal": 9760.0,
+    "tax_amount": 585.6,
+    "total_amount": 10345.6,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0145",
+    "filename": "INV-0145.pdf",
+    "file_type": "pdf",
+    "template": "classic_boxed",
+    "split": "test",
+    "vendor_id": "VEND-1242",
+    "vendor_name_on_invoice": "Northwind Fasteners Distributors 242",
+    "canonical_vendor_name": "Northwind Fasteners Distributors 242",
+    "invoice_number": "INV-2026-10144",
+    "invoice_date": "2026-08-02",
+    "currency": "USD",
+    "po_reference": "PO-10144",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "MRO-WIP-100",
+        "description": "Lint-Free Industrial Shop Wipes (100pk)",
+        "quantity": 100,
+        "unit_price": 18.0,
+        "total": 1800.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 500,
+        "unit_price": 4.5,
+        "total": 2250.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 100,
+        "unit_price": 5.5,
+        "total": 550.0
+      },
+      {
+        "line_number": 4,
+        "sku": "HYD-SEA-045",
+        "description": "Nitrile O-Ring Kit 450-Piece",
+        "quantity": 100,
+        "unit_price": 22.5,
+        "total": 2250.0
+      }
+    ],
+    "subtotal": 6850.0,
+    "tax_amount": 411.0,
+    "total_amount": 7261.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0146",
+    "filename": "INV-0146.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1029",
+    "vendor_name_on_invoice": "Northwind Metals Supplies 29",
+    "canonical_vendor_name": "Northwind Metals Supplies 29",
+    "invoice_number": "INV-2026-10145",
+    "invoice_date": "2026-09-15",
+    "currency": "USD",
+    "po_reference": "PO-10145",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "HYD-VLV-12",
+        "description": "High Pressure Ball Valve 1/2in NPT",
+        "quantity": 500,
+        "unit_price": 46.0,
+        "total": 23000.0
+      },
+      {
+        "line_number": 2,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 200,
+        "unit_price": 4.5,
+        "total": 900.0
+      }
+    ],
+    "subtotal": 23900.0,
+    "tax_amount": 1434.0,
+    "total_amount": 25334.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0147",
+    "filename": "INV-0147.pdf",
+    "file_type": "pdf",
+    "template": "scan_fax",
+    "split": "test",
+    "vendor_id": "VEND-1204",
+    "vendor_name_on_invoice": "Northwind Metals Distributors 204",
+    "canonical_vendor_name": "Northwind Metals Distributors 204",
+    "invoice_number": "INV-2026-10146",
+    "invoice_date": "2026-08-13",
+    "currency": "USD",
+    "po_reference": "PO-10146",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 200,
+        "unit_price": 28.0,
+        "total": 5600.0
+      }
+    ],
+    "subtotal": 5600.0,
+    "tax_amount": 336.0,
+    "total_amount": 5936.0,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0148",
+    "filename": "INV-0148.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1077",
+    "vendor_name_on_invoice": "Northwind Bearings Industries 77",
+    "canonical_vendor_name": "Northwind Bearings Industries 77",
+    "invoice_number": "INV-2026-10147",
+    "invoice_date": "2026-08-05",
+    "currency": "USD",
+    "po_reference": "PO-10147",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "WSH-M8-FLT",
+        "description": "Flat Washer M8 Stainless Steel",
+        "quantity": 20,
+        "unit_price": 0.12,
+        "total": 2.4
+      },
+      {
+        "line_number": 2,
+        "sku": "SAF-RES-N95",
+        "description": "Particulate Respirator N95 (20pk)",
+        "quantity": 500,
+        "unit_price": 28.0,
+        "total": 14000.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 500,
+        "unit_price": 5.5,
+        "total": 2750.0
+      }
+    ],
+    "subtotal": 16752.4,
+    "tax_amount": 1005.14,
+    "total_amount": 17757.54,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  },
+  {
+    "invoice_id": "INV-0149",
+    "filename": "INV-0149.pdf",
+    "file_type": "pdf",
+    "template": "minimal_modern",
+    "split": "test",
+    "vendor_id": "VEND-1129",
+    "vendor_name_on_invoice": "NW Hardware Inc. 129",
+    "canonical_vendor_name": "Northwind Hardware Inc. 129",
+    "invoice_number": "INV-2026-10148",
+    "invoice_date": "2026-08-28",
+    "currency": "USD",
+    "po_reference": "PO-10148",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "SAF-GLV-09",
+        "description": "Nitrile Coated Work Gloves Size L",
+        "quantity": 500,
+        "unit_price": 3.2,
+        "total": 1600.0
+      }
+    ],
+    "subtotal": 1600.0,
+    "tax_amount": 96.0,
+    "total_amount": 1696.0,
+    "problem_type": "WRONG_VENDOR",
+    "problem_details": {
+      "invoice_vendor_text": "NW Hardware Inc. 129",
+      "canonical_vendor": "Northwind Hardware Inc. 129"
+    },
+    "expected_match_outcome": "VENDOR_UNRESOLVED",
+    "expected_resolution_category": "HUMAN_REVIEW_VENDOR"
+  },
+  {
+    "invoice_id": "INV-0150",
+    "filename": "INV-0150.pdf",
+    "file_type": "pdf",
+    "template": "industrial_compact",
+    "split": "test",
+    "vendor_id": "VEND-1196",
+    "vendor_name_on_invoice": "Northwind Packaging Industries 196",
+    "canonical_vendor_name": "Northwind Packaging Industries 196",
+    "invoice_number": "INV-2026-10149",
+    "invoice_date": "2026-08-05",
+    "currency": "USD",
+    "po_reference": "PO-10149",
+    "line_items": [
+      {
+        "line_number": 1,
+        "sku": "TOOL-DRL-05",
+        "description": "HSS Cobalt Drill Bit 5.0mm",
+        "quantity": 100,
+        "unit_price": 4.5,
+        "total": 450.0
+      },
+      {
+        "line_number": 2,
+        "sku": "FST-M10-60",
+        "description": "Hex Bolt M10x60 Grade 10.9 Black",
+        "quantity": 20,
+        "unit_price": 0.85,
+        "total": 17.0
+      },
+      {
+        "line_number": 3,
+        "sku": "SAF-EYE-CLR",
+        "description": "Anti-Fog Safety Glasses Clear",
+        "quantity": 20,
+        "unit_price": 5.5,
+        "total": 110.0
+      }
+    ],
+    "subtotal": 577.0,
+    "tax_amount": 34.62,
+    "total_amount": 611.62,
+    "problem_type": "CLEAN_MATCH",
+    "problem_details": {},
+    "expected_match_outcome": "CLEAN_MATCH",
+    "expected_resolution_category": "AUTO_APPROVE"
+  }
+]

@@ -1,0 +1,22 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10853 from Northwind Electrical Manufacturing 243 (PO-10853)
+Date: 2026-07-29 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10853
+Invoice Number: INV-2026-10853
+Invoice Date: 2026-07-29
+Currency: USD
+Purchase Order: PO-10853
+
+--- Line Items ---
+1. SKU: SAF-GLV-09 | Nitrile Coated Work Gloves Size L | Qty: 100 | Unit: 3.20 | Total: 320.00
+
+Subtotal: USD 320.00
+Tax: USD 19.20
+Total Due: USD 339.20
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Manufacturing 243 Billing Department

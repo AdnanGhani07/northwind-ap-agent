@@ -1,0 +1,25 @@
+From: billing@northwindele.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10836 from Northwind Electrical Corp 41 (PO-10836)
+Date: 2026-07-23 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10836
+Invoice Number: INV-2026-10836
+Invoice Date: 2026-07-23
+Currency: USD
+Purchase Order: PO-10836
+
+--- Line Items ---
+1. SKU: NUT-M8-NYL | Nylon Insert Lock Nut M8 | Qty: 50 | Unit: 0.18 | Total: 9.00
+2. SKU: HYD-VLV-12 | High Pressure Ball Valve 1/2in NPT | Qty: 50 | Unit: 46.00 | Total: 2300.00
+3. SKU: TOOL-TAP-M8 | Spiral Point Tap M8x1.25 | Qty: 200 | Unit: 14.50 | Total: 2900.00
+4. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 100 | Unit: 2.10 | Total: 210.00
+
+Subtotal: USD 5419.00
+Tax: USD 325.14
+Total Due: USD 5744.14
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Electrical Corp 41 Billing Department

@@ -1,0 +1,25 @@
+From: billing@northwindbea.com
+To: ap-invoices@northwindsupply.com
+Subject: Invoice INV-2026-10874 from Northwind Bearings Supplies 141 (PO-10874)
+Date: 2026-08-11 09:00:00 -0500
+
+Dear Northwind Accounts Payable,
+
+Please find our billing details below for order reference: PO-10874
+Invoice Number: INV-2026-10874
+Invoice Date: 2026-08-11
+Currency: USD
+Purchase Order: PO-10874
+
+--- Line Items ---
+1. SKU: PNEU-TUB-50M | Polyurethane Pneumatic Tubing 8mm 50m | Qty: 50 | Unit: 38.00 | Total: 1900.00
+2. SKU: SAF-RES-N95 | Particulate Respirator N95 (20pk) | Qty: 50 | Unit: 28.00 | Total: 1400.00
+3. SKU: SAF-EYE-CLR | Anti-Fog Safety Glasses Clear | Qty: 100 | Unit: 5.50 | Total: 550.00
+4. SKU: PNEU-FTG-08 | Push-in Pneumatic Fitting 8mm Tube | Qty: 20 | Unit: 2.10 | Total: 42.00
+
+Subtotal: USD 3892.00
+Tax: USD 233.52
+Total Due: USD 4125.52
+
+Payment Terms: Net 30. Thank you for your business.
+Remit To: Northwind Bearings Supplies 141 Billing Department
