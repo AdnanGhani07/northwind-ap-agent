@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: northwind-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-northwind}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-northwind_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-northwind_ap}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-northwind} -d ${POSTGRES_DB:-northwind_ap}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Mock ERP legacy service (simulates ERP API with 503s & latency in Phase 3)
+  mock-erp:
+    build:
+      context: .
+      dockerfile: infra/Dockerfile.mock_erp
+    container_name: northwind-mock-erp
+    restart: unless-stopped
+    ports:
+      - "${MOCK_ERP_PORT:-8010}:8010"
+    environment:
+      - PORT=8010
+    profiles:
+      - full
+
+volumes:
+  postgres_data:
+    driver: local
